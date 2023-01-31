@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/Asset/fonts/renaultlife_regular.eot",
+      "sha1": "a91a9468305c6d2ff4bf0007c63cc811d5000d70"
+    },
+    {
+      "path": "src/Asset/fonts/renaultlife_regular.otf",
+      "sha1": "d4429abb701de68d5ea3c796c21265ae52a4f16c"
+    },
+    {
+      "path": "src/Asset/fonts/renaultlife_regular.svg",
+      "sha1": "94a2af2861e19340f2387dca282107fe3b7b059f"
+    },
+    {
+      "path": "src/Asset/fonts/renaultlife_regular.ttf",
+      "sha1": "f6a42a955eab53f5e6630cfae3d6c2191b55095b"
+    },
+    {
+      "path": "src/Asset/fonts/renaultlife_regular.woff",
+      "sha1": "bc5c04210e0f37b3365b9a767b7ab137f35e4f70"
+    },
+    {
+      "path": "src/Asset/fonts/renaultlife_regular.woff2",
+      "sha1": "82eb7166f8d25003bf2d558d1a9ee8b94140a3eb"
+    }
+  ]
+}

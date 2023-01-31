@@ -1,0 +1,3129 @@
+{
+	"general":{
+		"text1":"EARNED",
+		"text2":"REWARD POINTS",
+		"heading1":"Confirmation",
+		"message1":"Are you sure to logout from MY Renault App?",
+		"btn_text1":"Yes",
+		"btn_text2":"No",
+		"android_store_link":"https://goo.gl/wfWZWG",
+		"ios_store_link":"https://goo.gl/ApUozc ",
+		"text3":"For android: ",
+		"text4":" For iOS: ",
+		"text5":" No Data Found",
+		"text6":"Thanks,You are already rated this app",
+		"text7":"Logout",
+		"text8":"Sign Up",
+		"heading2":"Information",
+		"msg1":"To continue, please Sign Up/Sign In in MY Renault APP",
+		"btn1":"OK",
+		"file_browser":{
+			"title":"Choose",
+			"option1":"Camera",
+			"option2":"Image",
+			"option3":"Document",
+			"button1":"Cancel",
+			"message1":"Selected file format is not supported"
+			}
+		},
+	"external_urls":{
+		"url_renaultrange":"https://myrdev.renault-india.com/webrenaultrange/#/webrenaultrange/landing/web/", 
+		"url_cardekho":"https://myrdev.renault-india.com/_api/en_us/cardekho/",
+		"url_referral":"https://myrdev.renault-india.com/club_renault_referral/#/renault-referral/app/",
+		"url_faq":"https://myrdev.renault-india.com/faq/index.html?1",
+		"url_offers":"https://www.renault.co.in/offers.html" 
+	},
+	"side_menus":[
+		{"id":"1","title":"My Vehicle(s)","icon":"db_car_b.svg"},
+		{"id":"2","title":"My Services", "icon":"mnu_srvc_b.svg", "sub_menus":[
+			{"id":"2_1","title":"Service History", "icon":"mnu_hist_b.svg"},
+			{"id":"2_2","title":"Service Calculator", "icon":"mnu_calc_b.svg"},
+			{"id":"2_3","title":"Appointments", "icon":"mnu_date_b.svg"},
+			{"id":"2_4","title":"Service Payment", "icon":"mnu_pay_b.svg"}
+		]},
+		{"id":"3","title":"My Shop", "icon":"mnu_shop_b.svg"},
+		{"id":"4","title":"My Documents", "icon":"my_documents.svg"},
+		{"id":"5","title":"My Renault World", "icon":"mnu_wld_b.svg", "sub_menus":[
+			{"id":"5_1","title":"Locate Dealer", "icon":"db_loc_b.svg"},
+			{"id":"5_2","title":"Nearby", "icon":"near_by_black.svg"},
+			{"id":"5_3","title":"Renault Global", "icon":"mnu_wld_b.svg"},
+			{"id":"5_4","title":"Renault Social", "icon":"renault_social_black.svg"},
+			{"id":"5_5","title":"KWIDSTARS", "icon":"star_kwid_icon.svg"},
+			{"id":"5_6","title":"Renault Range", "icon":"mnu_renault_range.svg"},
+			{"id":"5_7","title":"Express Interest", "icon":"mnu_express_interest.svg"}  
+			 
+		]},
+		{"id":"6","title":"My Messages", "icon":"mnu_msg_b.svg"},
+		{"id":"7","title":"My Support", "icon":"my_support.svg", "sub_menus":[
+			{"id":"7_1","title":"Customer Support", "icon":"renault_assistance.svg"},
+			{"id":"7_2","title":"Road Side Assistance", "icon":"road_side_assitance.svg"},
+			{"id":"7_3","title":"Locate My Vehicle", "icon":"locate_vehicle_black.svg"}, 
+			{"id":"7_5","title":"Tips & Technique", "icon":"maintenance_tips.svg"},
+			{"id":"7_6","title":"Fuel Log", "icon":"fuel_log.svg"},
+			{"id":"7_7","title":"Road Sign", "icon":"maintenance_tips.svg"}
+			]}
+		
+	],
+	"side_menus_guest":[
+		{"id":"1","title":"Renault Range","icon":"mnu_renault_range.svg"},
+		{"id":"2","title":"Connect with Renault", "icon":"mnu_connect_renault.svg","sub_menus":[
+			{"id":"2_1","title":"Express Interest", "icon":"mnu_express_interest.svg"},
+			{"id":"2_2","title":"Book your Renault", "icon":"mnu_book_your_renault.svg"} 
+		]},
+		{"id":"3","title":"Online Store", "icon":"mnu_online_store.svg"},
+		{"id":"4","title":"Renault World", "icon":"mnu_renault_world.svg","sub_menus":[
+			{"id":"4_1","title":"Locate Dealer", "icon":"mnu_locate_dealer.svg"},
+			{"id":"4_2","title":"Nearby", "icon":"mnu_near_by.svg"},
+			{"id":"4_3","title":"Renault Social", "icon":"mnu_renault_social.svg"} 
+		]},
+		{"id":"5","title":"Messages", "icon":"mnu_messages.svg"},
+		{"id":"6","title":"Support", "icon":"mnu_customer_support.svg"} 
+		
+	],
+	"tab_menu":{
+		"tab1":"Home",
+		"tab2":"Nearby",
+		"tab3":"Renault Assistance",
+		"tab4":"Support",
+		"tab5":"Locate dealer",
+		"tab6":"Support",
+		"tab7":"Refer & Earn",
+		"tab8":"Offers",
+		"text1":"Sos Message sent",
+		"sos_title":"SOS",
+		"sos_msg":"An alert will be sent to your saved SOS contact along with your current GEO location.",
+		"sos_btn1":"Send SMS",
+		"sos_btn2":"SOS Settings",
+		"sos_btn3":"Cancel"  ,
+		"text9":"Call Us",
+		"tollfree" : "1800 315 44 44",
+		"tollfree_num" : "18003154444"
+	},
+	"pop_menu":[
+		{"title":"About"},
+		{"title":"FAQs"},
+		{"title":"SOS Settings"},
+		{"title":"Share App"},
+		{"title":"Rate Us"},
+		{"title":"Logout"}
+	],
+	"time_slot":[
+		{"value":"9:00","hrs":"9"},
+		{"value":"9:30","hrs":"9.5"},
+		{"value":"10:00","hrs":"10"},
+		{"value":"10:30","hrs":"10.5"},
+		{"value":"11:00","hrs":"11"},
+		{"value":"11:30","hrs":"11.5"},
+		{"value":"12.00","hrs":"12"},
+		{"value":"12:30","hrs":"12.5"},
+		{"value":"01:00","hrs":"13"},
+		{"value":"01:30","hrs":"13.5"} 
+	],
+	"pop_menu_guest":[
+		{"title":"About"},
+		{"title":"FAQs"},
+		{"title":"SOS Setting"},
+		{"title":"Rate Us"}, 
+		{"title":"Logout"}  
+	],
+	"pop_menu_guest2":[
+		{"title":"About"},
+		{"title":"FAQs"},
+		{"title":"SOS Setting"},
+		{"title":"Sign Up"} 
+	], 
+	"terms_and_condition":{
+		"title1":"MY",
+		"title2":"Renault",
+		"heading1":"Personal Data Protection",
+		"button1":"I AGREE",
+		"button2":"Disagree",
+		"text1":"Renault will not obtain data enabling you to be personally identified unless you give us this information by filling in and sending us the forms on the site or the section heading 'MY Renault'. This information is confidential and kept by Renault.",
+		"text2":"No commercial use will be made of the information without prior written authorisation from Renault or where appropriate the Renault Dealer Network. The data you provide about yourself is essential for answering your requests for information, appointments, etc. This information is exclusively for the use of Renault and certain of our commercial partners, our branch offices and the members of our sales network, for the purpose of surveys, analysis, sales and marketing campaigns.",
+		"text3":"The information you enter is used to offer you products and services to suit your personal taste and to send you the Renault Newsletter (Email Address Newsletter) on the understanding that you can terminate your subscription at any time. We may share personal data we hold with any member of our group, which means our holding companies and Associate Company  as defined in section 2(46) and 2(6) respectively of the Companies Act 2013.",
+		"text4":"We may also disclose personal data we hold to third parties in the event that we sell or buy any business or assets, in which case we may disclose personal data we hold to the prospective seller or buyer of such business or assets, or if we or substantially all of our assets are acquired by a third party, in which case personal data we hold will be one of the transferred assets; or in order to comply with any legal obligation, or in order to enforce or apply any contract with the data subject or other agreements; or to protect our rights, property, or safety of our employees, customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.",
+		"text5":"You have a right to access and can rectify data about yourself by contacting Renault India. If you do not wish to be contacted with marketing material, please tick the box at the bottom of each form on the site. We may obtain information which cannot under any circumstances be linked to a particular person. This information relates to the type of internet browser that you use, your computer system and the name of the domain by which you accessed our site.",
+		"text6":"If you have already provided us with personal details, you can change your instructions at any time by contacting Renault Customer Relations you can unsubscribe from receiving our mailings at any time sending a request to Renault Customer Relations",
+		"text7":"These terms and conditions shall be governed by and construed in accordance with the Indian Laws. Any dispute arising under these terms and conditions shall be subject to the exclusive jurisdiction of the courts of Chennai.",
+		"text8":"You can also unsubscribe at any time in the future by using the link that appears in the header of every Email Address that we will be sending to you.",
+		"text9":"We reserve the right to change this policy at any time. Where appropriate, we will notify data subjects of those changes by mail or Email Address."
+	},
+	"screen_welcome":{
+		"banner_heading1":"Welcome to",
+		"banner_heading2":"MY",	
+		"banner_heading3":"Renault",
+		"banner_content":[{"title":"Why MY Renault","text":"MY Renault is the ultimate way to take care of your vehicle. Make it your own and get connected.","image":"welcome_image_01.jpg"},{"title":"All about MY Renault","text":"All you need to know about your Renault is here. Manage your profile, your car details and service appointment.","image":"welcome_image_02.jpg"},{"title":"With MY Renault","text":"Our offers are specially designed to make your  journey with your Renault even more beautiful and easy. Enjoy!","image":"welcome_image_03.jpg"},{"title":"Connect with Renault","text":"Have questions regarding your vehicle? Our dedicated team is here to help you.","image":"welcome_image_04.jpg"}],
+		"guest_user_content":[{"title":"Why MY Renault","text":"MY Renault is a one-stop solution for everything Renault.","image":"guest_welcome_image_01.jpg"},{"title":"The Renault Range","text":"Here’s all you need to know about Renault vehicles. Take a look to discover the Renault that’s right for you.","image":"guest_welcome_image_02.jpg"},{"title":"Express interest","text":"Register your interest for the Renault car of your choice.","image":"guest_welcome_image_03.jpg"},
+		{"title":"Book your Renault","text":"Own your favourite Renault in just a click of a button.","image":"guest_welcome_image_04.jpg"},
+		{"title":"Connect with Renault","text":"Reach out to the Renault dealership for any query you may have","image":"guest_welcome_image_05.jpg"}],
+		"ios_banner_content": [{ "title": "Why MY Renault", "text": "MY Renault is the ultimate way to take care of your vehicle. Make it your own and get connected.", "image": "welcome_image_01.jpg" }, { "title": "All about MY Renault", "text": "All you need to know about your Renault is here. Manage your profile, your car details and service appointment.", "image": "ios_welcome_image_02.jpg" }, { "title": "With MY Renault", "text": "Our offers are specially designed to make your  journey with your Renault even more beautiful and easy. Enjoy!", "image": "ios_welcome_image_03.jpg" }, { "title": "Connect with Renault", "text": "Have questions regarding your vehicle? Our dedicated team is here to help you.", "image": "ios_welcome_image_04.jpg" }],
+		"btn_text1":"sign up",
+		"btn_text2":"sign In",
+		"text":"Renault Assistance",
+		"text1":"SOS",
+		"dialog_title":"Emergency contact",
+		"btn_text3":"Save",
+		"btn_text4":"Cancel",
+		"btn_text5":"sign In / sign up",
+		"btn_text6":"skip",
+		"placeholder1":"Mobile Number",
+		"sos_title":"SOS",
+		"sos_msg":"An alert will be sent to your saved SOS contact along with your current GEO location.",
+		"sos_btn1":"Send SMS",
+		"sos_btn2":"SOS Settings",
+		"sos_btn3":"Cancel",
+		"message1":"Please Check Your GPS",
+		"tollfree" : "1800 315 44 44",
+		"tollfree_num" : "18003154444"
+	},
+	"add_sos":{
+		"sos_header":"SOS Settings",
+		"sos_lable":"SOS",
+		"text1":"Edit",
+		"placeholder1":"Name",
+		"placeholder2":"Mobile Number",
+		"btn1":"Save",
+		"btn2":"Cancel",
+		"error1":"Please Enter the name",
+		"error2":"Please enter the 10 digit mobile number",
+		"error3":"Please enter the valid 10 digit Mobile Number",
+		"sucess_msg1":"SOS Contacts has been updated successfully"
+
+	},
+	"screen_launch":{
+		"banner_heading1":"Welcome to",
+		"banner_heading2":"MY",	
+		"banner_heading3":"Renault",
+		"btn_text1":"RENAULT OWNER",
+		"btn_text2":"GUEST",
+		"text":"Renault Assistance",
+		"main_header":"Welcome to MY Renault",
+		"page_heading1":"I have Renault Vehicle",
+		"page_heading2":"Guest User",	
+		"page_subheading1":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",	
+		"page_subheading2":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+		"tollfree" : "1800 315 44 44",
+		"tollfree_num" : "18003154444"
+	},
+	"screen_signup":{
+		"is_automatic_otp":"0",
+		"banner_heading":"SIGN UP",
+		"banner_text1":"Registration takes only 3 steps",
+		"banner_text2":"One Step to Go!!!",
+		"placeholder1":"Enter VIN /Chassis No",
+		"placeholder2":"Create your password",
+		"placeholder3":"Confirm your password",
+		"placeholder4":"Mobile OTP",
+		"placeholder5":"Enter Registration No",
+		"text1":"Enter VIN/ Registration No.",
+		"text2":"Validate Mobile",
+		"text3":"Create Password",
+		"text4":"I Accept",
+		"text5":"Terms of use",
+		"text6":"Where Can I Find the VIN ?",
+		"text7":"The VIN / Chassis no. will be found on registration certification",
+		"text8":"As per our record",
+		"text9":"your registered Mobile Number is",
+		"text10":"Mobile Number Validation",
+		"text11":"On selecting YES, you will receive an OTP ",
+		"text12":"to the above mentioned mobile number",
+		"text13":"Mobile OTP",
+		"text14":"Password strength",
+		"text15":"Weak",	
+		"text16":"Sign Up",
+		"text17":"Sorry ! We can not Sign Up you. Please update your mobile number at our nearest dealership for Sign Up.",
+		"text18":"Find your Nearest Dealer",
+		"text19":"OTP is incorrect. Please enter the correct OTP.",
+		"text20":"RESEND OTP",
+		"text21":"One Time Password (OTP)",
+		"text22":"OTP is a 6 digit code (Ex: 123456)",
+		"text23":"Password",
+		"text24":"Your password must be 6 - 10 characters long and should be alpha numeric.",
+		"text25":"having & has 17 Characters",
+		"text26":"M (Ex: MEE",
+		"text27":"not your number?",
+		"text28":"Visit the nearest dealership update your registered mobile number.to locate your nearest dealer",
+		"text29":"Click here",
+		"text30":"Good",
+		"text31":"Strong",	
+		"text32":"resend otp",
+		"text34":"Password",
+		"text35":"Your password must be 6 - 10 characters long and should be alpha numeric.",
+		"text36":"Already Registered. Please",
+		"text37":"SIGN IN",
+		"text38":" Is it correct?",
+		"error_msg1":"Enter your VIN number",
+		"error_msg2":"Entered VIN is incorrect",
+		"error_msg3":"Password are mismatch",
+		"btn_text1":"YES",
+		"btn_text2":"NO",
+		"btn_text3":"Ok",
+		"message":"MY Renault is the ultimate way to take care of your vehicle.Update your information at the narest dealership and get connected",
+		"message2":"This VIN is already registered.",
+		"message3":"Please accept the Terms of use",
+		"message4":"OTP Sent to your registered mobile number by SMS",
+		"message5":"Please enter a strong password",
+		"message6":"Enter the Password",
+		"message7":"Password doesn't match.",
+		"message8":"Mobile number not available, kindly contact nearest dealership",
+		"message9":"Mobile number of this VIN is already registered ",
+		"opt_time":"10000",
+		"message10":"The easiest way to view it is to stand outside the vehicle on the driver's side and look at the corner of the dashboard where it meets the windshield. If the VIN cannot be found there, open the driver's side door and look at the door post.",
+		"message11":"About VIN",
+		"message12":"Please read the Terms of use",
+		"message13":"Please read the Privacy policy",
+		"message14":"Please read T&C and Privacy policy to process further.",
+		"btn_text4":"Trouble Signing Up?",
+		"btn_text5":"About VIN",
+		"text39":"Remaining character = ",
+		"text40":"Video Tutorial",
+		"text41":"Call Us",
+		"text42":"Trouble SigningUp",
+		"text43":"XXXXXXXXXXXXXX)",
+		"text44":"&",
+		"text45":"Privacy Policy",
+		"otp_error_msg1":"OTP is incorrect. Please enter the correct OTP.",
+		"otp_error_msg2":"OTP is expired",
+		"otp_error_msg3":"Invaild Mobile Number",
+		"tollfree" : "1800 315 44 44",
+		"tollfree_num" : "18003154444"
+	},
+	"guest_screen_signup":{
+		"is_automatic_otp":"0",
+		"banner_heading":"SIGN UP", 
+		"banner_text1":"Registration takes only 2 steps", 
+		"banner_text2":"One Step to Go!!!",
+		"page_heading1":"GUEST REGISTRATION",
+		"placeholder1":"Mobile Number *",
+		"placeholder2":"Enter OTP",
+		"placeholder3":"Email Address",
+		"placeholder4":"Password",
+		"placeholder5":"First Name *",
+		"placeholder6":"Last Name",
+		"placeholder7":"Confirm Password",
+		"text1":"Enter your mobile no",
+		"text2":"Validate your Mobile Number",
+		"text3":"Create your Password",
+		"text4":"I have read and hereby accept the",
+		"text5":"Terms of use",
+		"text6":"Where Can I Find the VIN ?",
+		"text7":"The VIN / Chassis no. will be found on registration certification",
+		"text8":"As per our record",
+		"text9":"your registered Mobile Number is",
+		"text10":"Mobile Number Validation",
+		"text11":"On selecting YES, you will receive an OTP ",
+		"text12":"to the above mentioned mobile number",
+		"text13":"Mobile OTP",
+		"text14":"Password strength",
+		"text15":"Weak",	
+		"text16":"Sign Up",
+		"text17":"Sorry ! We can not Sign Up you. Please update your mobile number at our nearest dealership for Sign Up.",
+		"text18":"Find your Nearest Dealer",
+		"text20":"RESEND OTP",
+		"text21":"One Time Password (OTP)",
+		"text22":"OTP is a 6 digit code (Ex: 123456)",
+		"text23":"Password",
+		"text24":"Your password must be 6 - 10 characters long and should be alpha numeric.",
+		"text25":"having & has 17 Characters",
+		"text26":"M (Ex: MEE",
+		"text27":"not your number?",
+		"text28":"Visit the nearest dealership update your registered mobile number.to locate your nearest dealer",
+		"text29":"Click here",
+		"text30":"Good",
+		"text31":"Strong",	
+		"text32":"resend otp",
+		"text34":"Password",
+		"text35":"Your password must be 6 - 10 characters long and should be alpha numeric.",
+		"text36":"Already Registered. Please",
+		"text37":"SIGN IN",
+		"text38":" Is it correct?",
+		"text44":"I Accept",
+		"text45":"Terms of use", 
+		"text46":"&", 
+		"text47":"Privacy Policy", 
+		"error_msg1":"Please enter the valid 10digit mobile number",
+		"error_msg2":"Enter a valid mobile number",
+		"error_msg3":"Password are mismatch",
+		"error_msg4":"Please enter the First Name",
+		"error_msg5":"Please enter the Last Name",
+		"error_msg6":"Please enter the valid Email Address",
+		"btn_text1":"YES",
+		"btn_text2":"NO",
+		"btn_text3":"Ok",
+		"btn_text6":"Sign In",
+		"btn_text7":"Close",
+		"message":"MY Renault is the ultimate way to take care of your vehicle.Update your information at the narest dealership and get connected",
+		"message2":"You are an existing customer of Renault. Kindly use your VIN/Chassis No. to register and enjoy Renault Services",
+		"message3":"You are already a registered member of MY Renault. To continue, please Sign In",
+		"message4":"OTP Sent to your registered mobile number by SMS",
+		"message5":"Please enter a strong password",
+		"message6":"Enter the Password",
+		"message7":"Password doesn't match.",
+		"message8":"Mobile number not available, kindly contact nearest dealership",
+		"message9":"Mobile number of this VIN is already registered ",
+		"message12":"Enter the Confirm Password",
+		"message13":"Please accept the Terms of use and Privacy policy",
+		"message14":"Please read the Terms of use",
+		"message15":"Please read the Privacy policy",
+		"message16":"Please read T&C and Privacy policy to process further.",
+		"opt_time":"10000",
+		"message10":"The easiest way to view it is to stand outside the vehicle on the driver's side and look at the corner of the dashboard where it meets the windshield. If the VIN cannot be found there, open the driver's side door and look at the door post.",
+		"message11":"About VIN",
+		"btn_text4":"Trouble SigningUp?",
+		"btn_text5":"About VIN",
+		"text39":"Remaining character = ",
+		"text40":"Video Tutorial",
+		"text41":"Call Us",
+		"text42":"Trouble SigningUp",
+		"text43":"XXXXXXXXXXXXXX)",
+		"otp_error_msg1":"OTP is incorrect. Please enter the correct OTP.",
+		"otp_error_msg2":"OTP is expired",
+		"otp_error_msg3":"Invaild Mobile Number",
+		"dialog_title":" Existing User",
+		"tollfree" : "1800 315 44 44",
+		"tollfree_num" : "18003154444"
+	},
+	"screen_signin":{
+		"is_automatic_otp":"0",
+		"banner_heading1":"MY",
+		"banner_heading2":"Renault",
+		"heading1":"SIGN IN",
+		"placeholder1":"Mobile Number",
+		"placeholder2":"Password",
+		"placeholder3":"Enter OTP",
+		"placeholder4":"Create your Password",
+		"placeholder5":"Confirm your Password",
+		"btn_text1":"Don't have an account yet?",
+		"btn_text2":"Forgot Password?",
+		"btn_text3":"OK",
+		"btn_text4":"SIGN UP",
+		"btn_text5":"Trouble SigningIn?",
+		"btn_text6":"Sign up",
+		"message1":"Enter the Mobile number",
+		"message2":"Mobile number entered is not registered",
+		"message3":"Enter the valid 10 digit mobile number",
+		"message4":"Enter the Password",
+		"message5":"Enter the valid Password",
+		"message6":"Entered Mobile number is not registered with MY Renault, Re-enter registered mobile number",
+		"message7":"Re-enter registered mobile number",
+		"message8":"OTP does not match. Please re-enter OTP",
+		"message9":"Password doesn't match.",
+		"message10":"Your password must be 6 - 10 characters long and should be alpha numeric.",
+		"message11":"Please enter a strong password",
+		"message12":"Entered Number is not Registered Kindly visit the nearest dealer",
+		"message13":"OTP has been sent to your registered mobile number. Click OK to enter OTP",
+		"message14":"Entered password is not matching",
+		"message15":"Enter the valid mobile number",
+		"message16":"Invalid Mobile Number or Password",
+		"message17":"This mobile number is not registered on MYR, Kindly proceed with Sign up",
+		"message18":"You are an existing customer of Renault. Kindly use your VIN/Chassis No. to register and enjoy Renault Services",
+		"message19":"Please Check Your GPS",
+		"message20":"Renault Owner,",
+		"message21":"CLICK HERE",
+		"dialog_title":" Existing customer ", 
+		"text1":"RESEND OTP",
+		"text2":"RESET PASSWORD",
+		"text3":"Password strength",
+		"text4":"Weak",
+		"text5":"Good",
+		"text6":"Strong",
+		"image1":"login_image.jpg",
+		"opt_time":"10000",
+		"otp_error_msg1":"OTP is incorrect. Please enter the correct OTP.",
+		"otp_error_msg2":"OTP is expired",
+		"otp_error_msg3":"Invaild Mobile Number",
+		"sos_title":"SOS",
+		"sos_msg":"An alert will be sent to your saved SOS contact along with your current GEO location.",
+		"sos_btn1":"Send SMS",
+		"sos_btn2":"SOS Settings",
+		"sos_btn3":"Cancel",
+		"tollfree" : "1800 315 44 44",
+		"tollfree_num" : "18003154444"
+	},
+	"screen_email_registeration":{
+		"screen_title":"Account Activation",
+		"placeholder1":"Email Address",
+		"text1":"Enter the Email Address",
+		"text2":"Activation Link",
+		"text3":"Email Address activation link is valid for 48 hrs.",
+		"text4":"Account Activation",
+		"text5":"Please click on activation link sent to ",
+		"text7":"Enter the valid Email Address",
+		"text8":"You are almost there.Just share your Email",
+		"text9":"Not your Email Address?",
+		"text10":"Your email is not validated yet. Please validate it by clicking the activation link sent to the email ID you entered in the previous screen.",
+		"text11":", Check your spam/junk & other folders also in case you are not able to find the mail in your inbox.",
+		"text12":"Please try again later.",
+		"text13":"select default mail of device",
+		"text14":"(Email verification not required)",
+		"text15":"Enter Email",
+		"text16":"(Email verification required)"
+	},
+	"screen_dashboard":{
+		"title":"MY Renault",
+		"text1":"My Vehicle(s)",
+		"text2":"My Services",
+		"text3":"My Shop",
+		"text4":"Book Service",
+		"text5":"Locate Dealer",
+		"text6":"Know Your Car",
+		"text7":"You have not complete your vehicle information. Update the details",
+		"text8":"Reminder",
+		"text9":"OK",
+		"text10":"Dear ",
+		"text11":", your PUC certificate will expire on ",
+		"text12":". Please renew the same to avoid any inconvenience, if already renewed, update new expiry date in vehicle profile",
+		"text13":", your Car Insurance will expire on ",
+		"text14":"You have an appointment with Renault ",
+		"text15":" on ",
+		"text16":" at ",
+		"text17":"Dear Valued Customer, Please share your feedback on Renault Service. It will helps us to serve you better",
+		"text18":", Seems like you have not completed your transaction, place your order and enjoy Renault Service",
+		"text19":", your  have purchase ",
+		"text20":" which is valid till  ",
+		"text21":". Call & Visit dealership to avail the same. ",
+		"text22":", your extended warranty  will expire on ",
+		"text23":". Please renew the same to avoid any inconvenience ",
+		"text24":", your extended warranty  expired on ",
+		"text25":". To buy Renault Road side Assistance package, visit your nearest dealership ",
+		"text26":"You next service is due on ",
+		"text27":"You have not completed your personal information. Update the details in My Profile",
+		"text28":"You have not completed your PUC document information. Update the details in My Documents",
+		"text29":"You have not completed your insurance document information. Update the details in My Documents",
+		"text30":"Next Service Due date",
+		"text31":"Service Due date not available",
+		"text32":"Disclaimer",
+		"text33":"Cancel",
+		"text34":"The descriptions of the models given in this manual are based on the technical specifications at the time of writing. This manual covers all items of equipment (both standard and optional) available for these models, but whether or not these are fitted to the vehicle depends on the version, options selected and the country where the vehicle is sold. This manual may also contain information about items of equipment to be introduced later in the model year.",
+		"text35":"Press again to close App",
+		"internet_refresh":"Refresh the page",
+		"text36":"Dashboard",
+		"text37":"name",
+		"text38":"description",
+		"text39":"Dashboard to view banner images and navigate to internal pages",
+		"text40":"Renault Range",
+		"text41":"Express Interest",
+		"text42":"Book Your Renault",
+		"text43":"Online Store",
+		"text44":"Locate Dealer",
+		"text45":"Customer support",
+		"text46":"Book your Renault",
+		"text47":"No offers available",
+		"text48":"Support",
+		"dialog_title":" Existing customer ",
+		"btn_text3":"Sign up",
+		"btn_text4":"OK",
+		"message1":"You are an existing customer of Renault. Kindly use your VIN/Chassis No. to register and enjoy Renault Services",
+		"sos_title":"SOS",
+		"sos_msg":"An alert will be sent to your saved SOS contact along with your current GEO location.",
+		"sos_btn1":"Send SMS",
+		"sos_btn2":"SOS Settings",
+		"sos_btn3":"Cancel",
+		"dev_url":"https://devmyr.renault-india.com/webrenaultrange/#/webrenaultrange/landing/web",
+		"prod_renault_range_url":"https://myrdev.renault-india.com/webrenaultrange/#/webrenaultrange/landing/web/",
+		"text49":"Total Saved Amount"
+	},
+	"screen_profile":{
+		"title":"My Profile",
+		"tabs":{
+			"tab1":"My Profile",
+			"tab3":"My App Payments"
+		},
+		"my_profile":{
+			"menu":[{"title":"My Profile"},{"title":"My App Payments"},{"title":"My Requests"}],
+			"menu_guest":[{"title":"My Profile"},{"title":"My Requests"}],
+			"text1":"Email Address:",
+			"text2":"Date of Birth:",
+			"text3":"Address:",
+			"text4":"City:",
+			"text5":"Pin Code:",
+			"text6":"State:",
+			"text7":"Enter the Email Address",
+			"text8":"Enter the valid Email Address",
+			"text9":"Please click on activation link sent to your email ID to verify your email ID. ",
+			"text10":" Email Address",
+			"text11":"Invalid Domain Name",
+			"text12":"Verified",
+			"text13":"Not Verified",
+			"title":"My Profile",
+			"text14":"The information entered here shall be updated in Renault Database. Do you want to proceed?",
+			"text15":"No",
+			"text16":"Yes",
+			"text17":"Email ID Updation",
+			"text18":"From Date",
+			"text19":"To Date",
+			"text20":"Select date",
+			"text21":"Filter By: ",
+			"text22":"All",
+			"text23":"Service Payment",
+			"text24":"My Shop",
+			"text25":"No payment history",
+			"text26":"Paid Amount",
+			"text27":"Accessories",
+			"text28":"Commercial Offers",
+			"text29":"Transaction ID : ",
+			"text30":"Service type : ",
+			"text31":"Date : ",
+			"text32":"",
+			"text33":"You have not completed your personal information. Update the details in My Profile",
+			"text34":"Reminder" ,
+			"text35":"OK",
+			"text36":"Salutation",
+			"text37":"First name",
+			"text38":"Last name",
+			"text39":"Email ID",
+			"text40":"DOB",
+			"text41":"Occupation",
+			"text42":"Address",
+			"text43":"City",
+			"text44":"State",
+			"text45":"Pincode",
+			"text46":"Profile updated successfully",
+			"text47":"Request Type",
+			"text48":"Referral",
+			"text49":"Request Date",
+			"text50":"Request Name",
+			"text51":"DMS Id",
+			"text52":"Enquiry Id",
+			"text53":"Enquiry No",
+			"text54":"Dealer",
+			"text55":"Status",
+			"text56":"Not Referred",
+			"text57":"Referred",
+			"text58":"Test Drive",
+			"text59":"Booking Id",
+			"text60":"Model",
+			"text61":"Variant",
+			"text62":"Colour",
+			"text63":"Dealer",
+			"text64":"Payment Status",
+			"text65":"Booking Status",
+			"text66":"Not Booked",
+			"text67":"Booked",
+			"text68":"Test Drive",
+			"text69":"Status",
+			"text70":"Cancelled",
+			"text71":"Success",
+			"text72":"Book A Car",
+			"text73":"Referral",
+			"text74":"New Vehicle Enquiry",
+			"text75":"Car Booking", 
+			"text92":"Merchandise",
+			"text93":"Car Booking",
+			"text94":"New Vehicle Enquiry",
+			"text95":"Booking Ref.Id",
+			"text96":"Booking Amount",
+			"text97":"Color", 
+			"text98":"Dealer Name",
+			"text99":"Date of Booking",
+			"text100":"New Vehicle Enquiry",
+			"text101":"The information entered here shall be updated in Renault database.",
+			"text102":"+91",
+			"text103":"No Records Found",
+			"text104":"Salutation :",
+			"text105":"First Name :",
+			"text106":"Last Name :",
+			"text107":"Email ID :",
+			"text108":"Date of Birth :",
+			"text109":"Occupation :",
+			"text110":"Address :",
+			"text111":"City :",
+			"text112":"State :",
+			"text113":"Pin code :",
+			"text114":"No Records Found",
+			"text115":"Dealer Name :",
+			"text116":"Requested Date :" ,
+			"text117":"Requested Time :" ,
+			"text118":"Payment Transcation Id" ,
+			"text119":"Payment Status" 
+		},
+		"reward_points":{
+			"text1":"Total Points",
+			"text2":"Gold Level",
+			"text3":"Redeem Now",
+			"text4":"Earned Points"
+		}
+	},
+	"screen_my_vehicle":{
+			"title":"My Vehicle(s)",
+			"text1":"Everything about",
+			"text2":"MY",
+			"text3":" Renault",
+			"text4":"TECHNICAL CAMPAIGN",
+			"text5":"VIN :",
+			"text6":"Know your car",
+			"text7":"Service History",
+			"text8":"Book Appointment",
+			"text9":"My Vehicle Details",
+			"text10":"Variant:",
+			"text11":"Colour:",
+			"text12":"Purchased On:",
+			"text13":"Purchased From:",	
+			"text14":"My Maintenance Schedule",
+			"text15":"Next Service Due date:",
+			"text16":"Last Service Date:",
+			"text17":"Last Service KM:",
+			"text18":"Maintenance Plan:",
+			"text19":"Know Your Maintenance Plan",
+			"text20":"My Warranties & Service Contracts",
+			"text21":"Manufacturer Warranty Expires On:",
+			"text22":"Renault Secure Expires On:",
+			"text23":"Yet to be Purchased",
+			"text24":"Used Car Warranty Expires On:",
+			"text25":"Renault Assist Expires On:",	
+			"text26":"Yet to be Purchased",
+			"text27":"Purchase Now",
+			"text28":"Additional Information",
+			"text29":"Pollution Under Control (PUC) Expires On:",
+			"text30":"xxxxx",
+			"text31":"Update Now",
+			"text32":"Renault Assured/ Insurance Expires On:",
+			"text33":"Delete this vehicle",
+			"text34":"We Care for You",
+			"text35":"Renault Group is committed to total customer satisfaction having robust process in place to ensure safety, quality, and performance of its products! As a privilege customer we request you to visit nearest Renault dealer for Free inspection of your Renault car",
+			"text36":" ",	
+			"text37":"Call Nearest Dealer",
+			"text38":" Book Appointment ",
+			"text39":"Are you sure you want to delete your vehicle? If you delete your vehicle, you will no longer be able to use the customized services associated with it. No data will be kept.",
+			"text40":"Delete Vehicle",
+			"text41":"Confirm",
+			"text42":"Cancel",
+			"text43":"Done",
+			"text44":" KM",
+			"text45":"(whichever is earlier)",
+			"text46":"Your Manufacturer Warranty is Expired",
+			"text47":"Your Extended Warranty is Expired",
+			"text48":"Your Road Side Assistance Expired",
+			"text49":"Please Update your PUC date",
+			"text50":"Please Update your Insurance date",
+			"text51":"Call Customer Care",
+			"text52":" has been successfully deleted from MY Renault APP",
+			"text53":" has been successfully deleted from MY Renault App",
+			"text54":"The date reflected here has been taken from the information entered by yourself on My Documents section",
+			"text56":"Are you sure your want to delete your vehicle. Deleting this vehicle will also delete your My Renault Account and you will no longer be able to use the customized service associate with your My Renault account. No data will be kept",
+			"text57":"Your My Renault account has been deleted. ",
+			"text58":". Please renew the same to avoid any inconvenience  ",
+			"text59":", your extended warranty  expired on ",
+			"text60":". To buy Renault Road side Assistance package, visit your nearest dealership  ",
+			"text61":"Dear ",
+			"text62":", your extended warranty  will expire on ",
+			"text63":"Reminder",
+			"text64":"OK",
+			"text67":"Disclaimer",
+			"text68":"Cancel",
+			"text69":"The descriptions of the models given in this manual are based on the technical specifications at the time of writing. This manual covers all items of equipment (both standard and optional) available for these models, but whether or not these are fitted to the vehicle depends on the version, options selected and the country where the vehicle is sold. This manual may also contain information about items of equipment to be introduced later in the model year.",
+			"text70":"Buy Renault Assured, Click here!",
+			"text71":"Renault Secure",
+			"text72":"Integrated Extended Warranty & Road Side Assistance Retail Program",
+			"text73":"Renault Assist",
+			"text74":"Road  Side Assistance Retail Program",
+			"text75":"Renault Assured",
+			"text76":"Renault Assured program provides you a range of insurance solutions through our insurance partners and is designed to suite your specific driving requirement",
+			"internet_refresh":"Refresh the page",
+			"text77":"Thanks! Your request has been submitted to My Renault Assured.",
+			"text78":"Internet disconnected",
+			"text79":"Network not connected yet",
+			"text80":"Renault Finance",
+			"text81":"Learn More",
+			"text82":"Requested",
+			"text83":"Purchasedc",
+			"text84":"0",
+			"text85":"Interest to Purchase",
+			"text86":"Policy Dates Will Update Shortly",
+			"text87":"Request in progress your id :",
+			"text88":"Policy Dates Will Update Shortly",
+			"text89":"Easy Care Expires on",
+			"text90":"Renault Easy Care",
+			"text100":"Renault Easy Care is a prepaid maintenance program.",
+			"message1":"Congratulations. You can view the information in App after 24 hrs.",
+			"tollfree" : "1800 315 44 44",
+			"tollfree_num" : "18003154444"
+	},
+	"screen_renault_finance":{
+		"title":"Renault Finance",
+		"text1":"Loan Summary",
+		"text2":"Type",
+		"text3":"Status",
+		"text4":"Monthly Installment",
+		"text5":"Start Date",
+		"text6":"First EMI Date",
+		"text7":"Total Duration",
+		"text8":"Interest Rate",
+		"text9":"Total Loan Amount",
+		"text10":"Interest Amount",
+		"text11":"Total Amount",
+		"text12":"Last Installment Amount",
+		"text13":"No Loan information available !! Tap + button to add your loan details in MY Renault",
+		"text14":"Loan Summary",
+		"text15":"Loan Statement Request"
+	},
+	"dialog_box":{
+		"loan_error":"Enter the Loan Number",
+		"pan_error":"Enter the PAN Card Number"
+	},
+	"screen_add_vehicle":{
+		"is_automatic_otp":"0",
+		"title":"Add Vehicle",
+		"text1":"Enter your VIN",
+		"text2":"Validate your Mobile Number",
+		"text3":"Enter VIN /Chassis No",
+		"text4":"Please enter the VIN",
+		"text5":"Please Enter valid VIN",
+		"text6":"Where Can I Find the VIN?",
+		"text7":"The VIN / Chassis no. will be found in your registration certificate. It contains 17 Characters & begin with M (Ex: MEXXXXXXXXXXXXXXX)",
+		"text8":"Mobile OTP",
+		"text9":"OTP is incorrect. Please enter the correct OTP.",
+		"text10":"RESEND OTP",
+		"text11":"Sec",
+		"text12":"One Time Password (OTP)",
+		"text13":"OTP is a 6 digit code (Ex: 123456)",
+		"text14":"Vin Number is already registered",
+		"text15":"OTP send to your Registered Mobile Number by SMS",
+		"text16":"Your OTP is Expired",
+		"text17":"Another user already registered",
+		"message1":"This VIN is already registered.",
+		"message2":"Mobile number not available, kindly contact nearest dealership",
+		"message3":"Vin Number registered in another mobile number",
+		"opt_time":"10000"
+	},
+	"screen_color_vehicle":{
+		"title":"Select Colour",
+		"text1":"Select the colour of your",
+		"text2":"Submit",
+		"text3":"One Time Selection",
+		"text4":"Colour once selected cannot be changed",
+		"text5":"Your vehicle information is updated",
+		"text6":"Are you sure you want to select this colour?",
+		"text7":"Yes",
+		"text8":"No",
+		"internet_refresh":"Refresh the page"
+	},
+	"select_vehicle":{
+		"title":"Select Vehicle"
+	},
+	
+	"screen_scenario":{
+		"is_automatic_otp":"0",
+		"title":"Verification",
+		"text1":"Looks like ...Mobile number ",
+		"text2":" for your registered vehicle is changed to ",
+		"text3":" select one of the option below to continue",
+		"text4":" for some of your registered vehicle(s) is changed.",
+		"text26":" for all your registered vehicle(s) is changed.",
+		"text24":" for some of your registered vehicle(s) is changed to different numbers.",
+		"text27":" for all your registered vehicle(s) is changed to different numbers.",
+		"text5":"I am no more user of the vehicle",
+		"text6":"I am no more user of the vehicle(s)",
+		"text25":"I am no more user of all this vehicle(s)",
+		"text7":"Delete the Vehicle(s) from MY Renault App",
+		"text8":"I want to update my Registered Mobile Number",
+		"text9":"Select one of the option below to continue",
+		"text10":"Incase, you have not changed the mobile number(s) kindly visit/call nearest dealership",
+		"text11":"Locate your nearest dealer...",
+		"text12":"By confirming, the OTP will be sent to your new mobile number for verification",
+		"button1":"Confirm",
+		"button2":"Cancel",
+		"text13":"By confirming, your account will be deactivated and you will no longer be able to access MY Renault App with this Mobile Number",
+		"text14":"By confirming, the vehicle(s) for which the Mobile Number is changed will be deleted from MY Renault App.",
+		"text15":"Mobile OTP",
+		"text16":"Invalid OTP",
+		"text17":"RESEND OTP",
+		"text18":"Sec",
+		"text19":"Confirmation",
+		"text20":"Your Mobile Number has been updated successfully",
+		"text21":"Done",
+		"text22":"Your Mobile Number has been updated successfully for the selected vehicle(s) the remaining vechile(s) is deleted from MY Renault App",
+		"text23":"OTP Sent to your registered mobile number by SMS",
+		"opt_time":"10000"
+	},
+	"screen_my_service":{
+		"title":"My Services",
+		"menu":[{"title":"Service History"},{"title":"Service Calculator"},{"title":"Appointments"}, {"title":"Service Payment"}],
+		"text1":"Service Date",
+		"text2":"Rate your Dealer  Service  Experience",
+		"text3":"Service Type",
+		"text4":"Odometer Reading",
+		"text5":"Dealer Name",
+		"text6":"Rate your dealer",
+		"text7":"Service Feedback",
+		"text8":"Rate your Dealer  Service  Experience",
+		"text9":"Completely Dissatisfied",
+		"text10":"Somewhat Dissatisfied",
+		"text11":"Dissatisfied",
+		"text12":"Somewhat Satisfied",
+		"text13":"Completely Satisfied",
+		"btn_text1":"Submit",
+		"text14":"Your Service Appointment",
+		"text15":"Confirmed",
+		"text16":"Date & Time",
+		"text17":"Meter reading",
+		"text18":"Requested Date",
+		"text19":"Confirmed Date",
+		"btn_text2":"Get Direction",
+		"btn_text3":"Call",
+		"text20":"Everything about",
+		"text21":"MY",
+		"text22":"My Renault Service",
+		"text23":"Variant",
+		"text24":"Fuel type",
+		"text25":"Date Purchased",
+		"text26":"Select City",
+		"text27":"Years",
+		"text28":"Select KMS",
+		"btn_text4":"Calculate",
+		"text29":" Servicing for ",
+		"text30":"Select City",
+		"text31":"Part Details",
+		"text32":"Fuel strainer",
+		"text33":"Plug-spark",
+		"text34":"Wiper wsh fluid ",
+		"text35":"Washer-cap seal",
+		"text36":"Engine oil",
+		"text37":"Filter-oil",
+		"text38":"Crtg-air filter",
+		"text39":"Total Parts cost",
+		"text40":"Total Labour cost ",
+		"text41":"Total Estimated Expense",
+		"text42":"Estimated cost applied only for periodic maintenance",
+		"text43":"(including tax)",
+		"title2":"Service Calculator",
+		"text44":"(including Tax)",
+		"text45":"Choose Your Car",
+		"text46":"Search Dealer By",
+		"text47":"Preferred Date & Time",
+		"text48":"Pickup My Vehicle",
+		"text49":"Click to view more information about the service type",
+		"text50":"Meter Reading",
+		"text51":"Select Kilometre",
+		"text52":"Service Instructions",
+		"text53":"Select Date",
+		"text54":"Select Time",
+		"text55":"Select",
+		"btn_text5":"Cancel",
+		"btn_text6":"Confirm",
+		"text56":"Search",
+		"text57":"360/",
+		"text58":"Type your service information if any",
+		"text59":"RO Number",
+		"text60":"Date & Time",
+		"text61":"Payable Amount to Dealer",
+		"btn_text7":"Proceed to Payment",
+		"text62":"No Service Records available for this Vehicle",
+		"text63":"KMS",
+		"text64":"Purchased on",
+		"text65":"Select Years",
+		"text66":"Book Appointment",
+		"text67":"Booking appointment is now made easy...",
+		"text68":"Click the button below",
+		"text69":"Select Kilometer",
+		"text70":"The Service is provided in order to facilitate access to view and pay the price of merchandise online. Renault India Private Limited or its Authorised Dealer do not make any representation of any kind, express or implied, as to the operation of the Payment Gateway. By accepting to proceed with the payment you expressly agree that your use of this online payment service is entirely at your own risk.",
+		"text71":"Disagree",
+		"text72":"Agree",
+		"text73":"Payment Success",
+		"text74":"Thank You,Your request has been forwarded to selected dealer for appointment confirmation. Dealership will connect with you soon.",
+  	"text75":"OK",
+		"text76":"Payment Failed",
+		"text77":"No Data for this selection",
+		"text78":"Your service feedback submitted successfully",
+		"text79":"Please select Feedback",
+		"text80":"Select Dealer",
+		"text81":"Preferred Date & Time",
+		"text82":"Address",
+		"text83":"Select Address",
+		"text84":"Select Pincode",
+		"text85":"Enter Pincode",
+		"text86":"Select Service type",
+		"text87":"Service Instructions",
+		"text88":"Type an issue you want to address during service",
+		"text89":"Enter Comments",
+		"text90":"Last Visited Dealer",
+		"text91":"Dealer Near Me",
+		"text92":"Custom Search",
+		"text93":"Search Dealer By",
+		"text94":"dealer_type",
+		"text95":"last_visited",
+		"text96":"near_by",
+		"text97":"custom_search",
+		"text98":"service_type",
+		"text99":"Search Dealer",
+		"text100":"Service Appointment request ",
+		"text101":"No",
+		"text102":"Yes",
+		"text103":"pickup",
+		"text104":"owner",
+		"text105":"Booking Summary",
+		"text106":"Thank You",
+		"text107":"Your appointment request has been forwarded to the selected dealer for confirmation. Dealership will connect with you soon.",
+		"text108":"APPOINTMENT ALREADY ADDED",
+		"text109":"Appointment is already opened for this vehicle",
+		"text110":"pickup_address",
+		"text111":"km",
+		"text112":" KM",
+		"pop_over_text1":"First free service: 2,000 km or Two Months after the date of car delivery whichever occurs is earlier.",
+		"pop_over_text2":"No parts & consumable replacement is required in this service & Labour charges are free.",
+		"pop_over_text3":"Second Free service: 10,000 km or 12 Months from the date of car delivery whichever occurs is earlier.",
+		"pop_over_text4":"All consumables such as oil & oil filter, fuel filter and service maintenance items are chargeable. Labour charges are free. For more details, contact Renault authorized dealer.",
+		"pop_over_text5":"Third Free service: 20,000 km or 24 months from the date of car delivery whichever occurs is earlier.",
+		"pop_over_text6":"Paid Service: At an interval of 10,000 Km or one year whichever occurs is earlier.",
+		"pop_over_text7":"All consumables such as oil/oil filter, fuel filter and service maintenance items are chargeable. Labour charges are paid as applicable. For more details, contact Renault authorized dealer.",
+		"pop_over_text8":"Running Repair - Any Unscheduled Repairs/services other than periodic maintenance service required to maintain performance of car.",
+		"pop_over_text9":"All consumables, parts & Labour are chargeable as applicable. For more details, contact Renault authorized dealer.",
+		"pop_over_text10":"Body Repairs",
+		"pop_over_text11":"Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+		"pop_over_text12":"Body paint jobs are bodywork repairs which includes denting & painting",
+		"pop_over_text13":"All consumable, parts & labour are chargeable as applicable. For more details, contact Renault Authorized dealership.",
+		"pop_over_text14":"Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+		"text113":"Total service records available: ",
+		"text114":"Cost",
+		"btn_text8":"Show more",
+		"text115":"Registered Address",
+		"text116":"Alternate Address",
+		"text117":"Pick up Location",
+		"text118":"addrs_type",
+		"btn_text9":"Preferred Address",
+		"text119":"Dealer Address",
+		"text120":"Dealer Code",
+		"text121":"Booking appointment is now made easy..",
+		"text122":"Appointment ID",
+		"text123":"The service cost as displayed herein is only an approximate value. It may vary upon actual evaluation of vehicle at the Dealership and availment of Value Added Services",
+		"text124":"No service list(s) available",
+		"text125":"Payment",
+		"text126":"Requested",
+		"text127":"SERVER CONNECTION ERROR",
+		"text128":"Appointment not created. Please try again.",
+		"text129":"Reminder",
+		"text130":"OK",
+		"text131":"You have an appointment with Renault ",
+		"text132":" on ",
+		"text133":" at ",
+		"text134":"Dear Valued Customer, Please share your feedback on Renault Service. It will helps us to serve you better",
+		"text135":"The booking  is possible only after 24 hours of time.",
+		"text136":"Thank you for payment of RS. ",
+		"text137":" against dealer ",
+		"text138":"This facility is not available at the selected Dealership. You are advised to connect with the Dealer over phone/email. For any further queries, call to Renault’s Customer Care at 1800 315 4444 or write to us at customer@renault.com",
+		"text139":"server error, please try after some time",
+		"internet_refresh":"Refresh the page",
+		"text140":"Lorem Ipsum is simply dummy text",
+		"text141":"Sorry for the inconvenience.",
+		"text142":"The server is busy from 10PM to 2AM. Kindly try again after some time.",
+		"text143":"SMS sent to the area manager",
+		"text144":"Escalating alert",
+		"text145":"The booking is possible only after 24 hours of time",
+		"text146":"Add jobs",
+		"text147":" On Demand Jobs ",
+		"text148":"Vehicle Status",
+		"text149":"Payment ",
+		"text150":"Disclaimer",
+		"text151":"Quality certificate provides your vehicle health status and repair recommendation on the basis of last service visit.",
+		"text152":"Dialog",
+		"text153":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+		"text154":"Tap on cost button to view cost of ownership",
+		"text155":"The express service is applicable for periodic maintenance service upto 40,000 KM with minor repairs like Fuse replacement, brake cleaning, brake pad replacement, Wheel balancing etc.",
+		"text156":"Express Service",
+		"text157":" at ",
+		"text158":" on ",
+		"text159":" Click yes to confirm. ",
+		"text160":" for ",
+		"text161":"Total Estimated Service Cost",
+		"text162":"Server error",
+		"text163":"Invoice Amount",
+		"text164":"On Demand Jobs",
+		"text165":"The appointment request is subject to the dealer confirmation.",
+		"text166":"Enter Amount",
+		"text167":"Select Dealer",
+		"text168":"Select Dealer",
+		"text169":"Alternative range of selected maintenance parts suited for ageing cars in order to reduce cost of ownership.",
+		"text170":"Motrio",
+		"text171" : "Add Video",
+		"text172" : "Select Video",
+		"text173" : "View Quality Certificate",
+		"text174" : "Share your feedback",
+		"text175" : [ "mp4" , "3gp", "mov"],
+		"text176" : "Selected file format is not supported",
+		"text177" : "You cannot upload more than 5mb.",
+		"text178" : "5 * 1024 * 1024",
+		"text179" : "Try again",
+		"text180" : "Request Invoice copy",
+		"text181" : "E-mail send seccessfully",
+		"text182" : "",
+		"text183" : "15sec Video only allowed",
+		"text184" : "The maximum video time should be 10 sec."
+	},
+	 "screen_my_shop":{
+		"title":"My Shop",
+		"text1":"EVERYTHING ABOUT",
+		"text2":"MY",
+		"text3":"Take your pick",
+		"text4":"My Offers",
+		"text5":"My Orders",
+		"text6":"Book A Car",
+		"text7":"My Accessories & Merchandise",
+		"text8":"Commercial Offers",
+		"text9":"View More",
+		"text10":"No List to Show",
+		"text11":"No Accessories found",
+		"text12":"Appointment is already opened for this vehicle",
+		"text13":"The offers displayed herein can be availed purely at the discretion of the Brand Partner. Renault does not promote or assume any responsibility for the offers as advertised above by the Brand Partner. You are being directed outside the App. Renault India Private Limited or its Authorized Dealer do not make any representation of any kind, express or implied, as to the validity of the offer. ",
+		"text14":"Disclaimer",
+		"text23":"Ordered",
+		"text15":"Invoice",
+		"text16":"Delivered",
+		"text17":"Dealer Name",
+		"text18":"Dealer Address",
+		"text19":"No. of Product",
+		"text20":"Product Price",
+		"text21":"Delivery Charge",
+		"text22":"Total Amount Paid",
+		"text24":"Order ID",
+		"text25":"Vehicle",
+		"text26":"No Records Found",
+		"text27":"No Commercial offers found",
+		"text28":"Appointment",
+		"text29":"Order Type",
+		"text30":"Accessories",
+		"text31":"Service package",
+		"text32":", Seems like you have not completed your transaction, place your order and enjoy Renault Service",
+		"text33":", your  have purchase ",
+		"text34":" which is valid till  ",
+		"text35":". Call & Visit dealership to avail the same. ",
+		"text36":"Dear ",
+		"text37":"Reminder",
+		"text38":"OK",
+		"text39":"Activate",
+		"text40":"Offer valid till",
+		"text41":"Your Welcome offer  ",
+		"text42":"Thank You ",
+		"text43":" is activated and valid till ",
+		"text44":", Kindly check your email for more information",
+		"text45":", Kindly check your email for more information",
+		"text46":"Purchase not done. Please try again",
+		"text47":"server connection error",
+		"text48":"Are you sure want to activate this offer now?",
+		"text49":"Offer Description",
+		"text50":"Terms & Conditions :",
+		"text51":"Read more...",
+		"text52":"Show less",
+		"text53":"Activate",
+		"text54":"Description :",
+		"internet_refresh":"Refresh the page",
+		"text55":"Information",
+		"text56":"Sorry for the inconvenience.",
+		"text57":"The server is busy from 10PM to 2AM. Kindly try again after some time.",
+		"text58":"No more product found",
+		"text59":"Home delivery",
+		"text60":"Workshop fitment",
+		"text61":"Offer availed on ",
+		"text62":"Offer expired",
+		"text63":"No Welcome Offers",
+		"text64":"Active offers",
+		"text65":"No Activated Offers",
+		"text66":"New",
+		"text67":"View More",
+		"text68":"Newly Added",
+		"text69":"Offers",
+		"text70":"Exterior",
+		"text71":"Most selling",
+		"text72":"Offers",
+		"text73":"Price",
+		"text74":"Ordered",
+		"text75":"Order date",
+		"text76":"Dealer",
+		"text77":"Call",
+		"text78":"% off",
+		"text79":"Select City",
+		"text80":"Select State",
+		"text81":"Select Vehicle",
+		"text82":"Interior",
+		"text86":"Applicable For",
+		"text87":"Explore More",
+		"text88":"Coupon Code :",
+		"text89":"Book Your Renault",
+		"text90":"Click below button to book Renault",
+		"text91":"Book Your Renault",
+		"text92":"Merchandise",
+		"text93":"New",
+		"text94":"View More",
+		"text95":"No Products found",
+		"order_status_text1":"Ordered",
+		"order_status_text2":"Invoice",
+		"order_status_text3":"Delivered",
+		"order_status_text4":"Cancelled"
+	 },
+	 "screen_my_shop_guest":{
+		"title":"Online Store",
+		"text1":"EVERYTHING ABOUT",
+		"text2":"MY",
+		"text3":"Take your pick",
+		"text4":"My Offers",
+		"text5":"My Requests",
+		"text6":"Book A Car",
+		"text7":"Merchandise",
+		"text8":"Commercial Offers",
+		"text9":"View More",
+		"text10":"No List to Show",
+		"text11":"No Accessories found",
+		"text12":"Appointment is already opened for this vehicle",
+		"text13":"The offers displayed herein can be availed purely at the discretion of the Brand Partner. Renault does not promote or assume any responsibility for the offers as advertised above by the Brand Partner. You are being directed outside the App. Renault India Private Limited or its Authorized Dealer do not make any representation of any kind, express or implied, as to the validity of the offer. ",
+		"text14":"Disclaimer",
+		"text23":"Ordered",
+		"text15":"Invoice",
+		"text16":"Delivered",
+		"text17":"Dealer Name",
+		"text18":"Dealer Address",
+		"text19":"No. of Product",
+		"text20":"Product Price",
+		"text21":"Delivery Charge",
+		"text22":"Total Amount Paid",
+		"text24":"Ordered ID",
+		"text25":"Vehicle",
+		"text26":"No Records Found",
+		"text27":"No Commercial offers found",
+		"text28":"Appointment",
+		"text29":"Order Type",
+		"text30":"Accessories",
+		"text31":"Service package",
+		"text32":", Seems like you have not completed your transaction, place your order and enjoy Renault Service",
+		"text33":", your  have purchase ",
+		"text34":" which is valid till  ",
+		"text35":". Call & Visit dealership to avail the same. ",
+		"text36":"Dear ",
+		"text37":"Reminder",
+		"text38":"OK",
+		"text39":"Activate",
+		"text40":"Offer valid till",
+		"text41":"Your Welcome offer  ",
+		"text42":"Thank You ",
+		"text43":" is activated and valid till ",
+		"text44":", Kindly check your email for more information",
+		"text45":", Kindly check your email for more information",
+		"text46":"Purchase not done. Please try again",
+		"text47":"server connection error",
+		"text48":"Are you sure want to activate this offer now?",
+		"text49":"Offer Description",
+		"text50":"Terms & Conditions :",
+		"text51":"Read more...",
+		"text52":"Show less",
+		"text53":"Activate",
+		"text54":"Description :",
+		"internet_refresh":"Refresh the page",
+		"text55":"Information",
+		"text56":"Sorry for the inconvenience.",
+		"text57":"The server is busy from 10PM to 2AM. Kindly try again after some time.",
+		"text58":"No more product found",
+		"text59":"Home delivery",
+		"text60":"Workshop fitment",
+		"text61":"Offer availed on ",
+		"text62":"Offer expired",
+		"text63":"No Welcome Offers",
+		"text64":"Active offers",
+		"text65":"No Activated Offers",
+		"text66":"Request Type",
+		"text67":"Referral",
+		"text68":"Request Date",
+		"text69":"Request Name",
+		"text70":"DMS Id",
+		"text71":"Enquiry Id",
+		"text72":"Enquiry No",
+		"text73":"Dealer",
+		"text74":"Status",
+		"text75":"Not Referred",
+		"text76":"Referred",
+		"text77":"Test Drive",
+		"text78":"Booking Id",
+		"text79":"Model",
+		"text80":"Variant",
+		"text81":"Colour",
+		"text82":"Dealer",
+		"text83":"Payment Status",
+		"text84":"Booking Status",
+		"text85":"Not Booked",
+		"text86":"Booked",
+		"text87":"Test Drive",
+		"text88":"Status",
+		"text89":"Cancelled",
+		"text90":"Success",
+		"text91":"Book A Car",
+		"text92":"Merchandise",
+		"text93":"Car Booking",
+		"text94":"New Vehicle Enquiry",
+		"text95":"Min",
+		"text96":"Max",
+		"text97":"Newly Added",
+		"text98":"View More",
+		"text99":"Offers",
+		"text100":"Most selling",
+		"text101":"% Off",
+		"text102":"Newly Added",
+		"text103":"Newly Added",
+		"text104":"Coupon code"
+	 },
+	 "screen_my_cart":{
+		"title":"My Cart",
+		"text1":"No list(s) in your cart",
+		"text2":"Off",
+		"text3":"Qty:",
+		"text4":"Total Price",
+		"text5":"Continue to Shop",
+		"text6":"Proceed to Payment",
+		"text7":"Pay at Dealership",
+		"text8":"Inclusive of tax",
+		"text9":"ORDER FOR HOME DELIVERY",
+		"text10":"Delivery charges : ",
+		"text11":"Purchase above  ",
+		"text12":" & get delivery free",
+		"text13":"Total cost:",
+		"text14":"Buy Now",
+		"text15":"ORDER FOR FITMENT AT WORKSHOP ",
+		"dialog_title1":"Remove item",
+		"message1":"Are you sure you want to remove this item?",
+		"message2":"Atleast one quantity for each product",
+		"message3":"Maximum three quantity for each product",
+		"button_text1":"Yes",
+		"button_text2":"No",
+		"internet_refresh":"Refresh the page",
+		"text16":"Maximum four quantity for each product",
+		"text17":"Product Quantity exceed from the quantity limit",
+		"text18":"Please complete your individual orders below",
+		"text25":"Make Payment",
+		"text26":"Delivery State & City",
+		"text27":"Payment failed",
+		"text28":"Thank You",
+		"text29":"Your order has been confirmed.Your order ID is ",
+		"text30":"Appointment already opened for this VIN.",
+		"text31":"Product not found.",
+		"text32":"Appointment time should be greater than selected time.",
+		"text33":"Product Price",
+		"text34":"The Service is provided in order to facilitate access to view and pay the price of merchandise online. Renault India Private Limited or its Authorised Dealer do not make any representation of any kind, express or implied, as to the operation of the Payment Gateway. By accepting to proceed with the payment you expressly agree that your use of this online payment service is entirely at your own risk.",
+		"text35":"You are now redirecting on 3rd party site. Renault India Private Limited do not make any representation of any kind, express or implied, as to the operation of the Payment Gateway. By accepting to proceed with the payment you expressly agree that your use of this online payment service is entirely at your own risk.",
+		"text36":"Thank you for your payment of RS.",
+		"text39":". An auto appointment has been requested against selected dealer, Kindly review the status from appointment section.",
+		"text37":"Thank You",
+		"btn_text1":"Disagree",
+		"btn_text2":"I Agree",
+		"text40":"Order confirmation",
+		"text41":"Want to confirm your order with the selected dealer?",
+		"text42":"Call Dealer",
+		"text43":"Inclusive of tax",
+		"text44":"Server connection error",
+		"text45":"Connection timeout,Please try again later  ",
+		"text46":"Appointment not found",
+		"text47":"Information",
+		"text48":"Sorry for the inconvenience.",
+		"text49":"The server is busy from 10PM to 2AM. Kindly try again after some time.",
+		"text50":"OK",
+		"text51":"WoW",
+		"text52":"What's WoW?",
+		"text53":"Date",
+		"text54":"Timing",
+		"text55":"Where do you want to get this delivered?",
+		"text56":"Select delivery address/ Add New Address",
+		"text57":"Delivery charges :  ",
+		"text58":"Purchase above  ",
+		"text59":" & get delivery free",
+		"text60":"Total cost:",
+		"text61":"Pay Online",
+		"text62":"Registered Address (Delivery charge applicable)",
+		"text63":"Alternate Address (Delivery charge applicable)",
+		"text64":"Collect from dealership (Delivery charge not applicable)",
+		"text140":"Information",
+		"text141":"Sorry for the inconvenience.",
+		"text142":"DMS error.Try again later.",
+		"text143":"WoW",
+		"text144":"Workshop on Wheels (WoW) is a mobile workshop offering from Renault",
+		"text145":"Pay at dealership",
+		"text146":"Pay at dealership Success",
+		"text147":"Select your WoW schedule",
+		"text148":"Check WoW",
+		"text149":"Address",
+		"text150":"Select Location and your schedule",
+		"text151":"Select Dealer state & registered address state is not matching. Please use alternate address option.",
+		"text152":"Prefer Date",
+		"text153":"Prefer Time",
+		"text154":"Select Date",
+		"text155":"Select Time",
+		"text156":"Continue to Shop",
+		"text157":"Payment failed",
+		"text158":"Your request has been forwarded to the selected dealer. Check “My Order” section under “MY Shop” for quick access to dealer",
+		"text159":"You can also get this fitted at nearby Workshop on Wheels(WoW)",
+		"text160":"Enter Pincode",
+		"text161":"Please select one order type",
+		"text162":"Order Confirmation",
+		"preferred_day_limit":30,
+		"text163":"Select Dealer",
+		"text164":"Price",
+		"text165":"Charges applicable*",
+		"text166":"Buy Now",
+		"text167":"Select Time",
+		"text168":"Pay Online",
+		"text169":"Do you want to book an appointment to avail the purchased offer.",
+		"text170":"Thank You! Your Commerical offer transaction has been completed successfully."
+	 },
+	 "screen_order_list":{
+		"title":"My Order",
+		"text1":"Vehicle",
+		"text2":"Ordered",
+		"text3":"Invoice",
+		"text4":"Delivered",
+		"text5":"Dealer Name",
+		"text6":"Dealer Address",
+		"text7":"Delivery Address",
+		"text8":"No. of Product",
+		"text9":"Total Amount Paid",
+		"text10":"Delivered on",
+		"text11":"Ordered ID",
+		"text12":"Product Name:",
+		"text13":"Product Type:",
+		"text14":"Accessories",
+		"text15":"Commercial Offers",
+		"text16":"Quantity:",
+		"text17":"Total Amount Paid:",
+		"text18":"Product Price",
+		"text19":"Delivery Charge",
+		"text20":"Appointment",
+		"text21":"Order Type",
+		"text22":"Accessories",
+		"text23":"Service package",
+		"internet_refresh":"Refresh the page"
+	 },
+	  "screen_dealer_address":{
+		"title":"Proceed to Payment",
+		"title1":"Pay at Dealership",
+		"title2":"Order Fulfillment",
+		"title3":"Home Delivery",
+		"text1":"Select Dealer",
+		"text2":"Select State",
+		"text3":"Select City",
+		"text4":"Delivery Charges",
+		"text38":"(if applicable)",
+		"text5":"Total Price",
+		"text6":"You Saved ",
+		"text7":"Where do you want to get this delivered?",
+		"text8":"Registered",
+		"text9":"Address",
+		"text10":"Alternate",
+		"text11":"Name:",
+		"text12":"Address:",
+		"text13":"City:",
+		"text14":"Pin Code:",
+		"text15":"State:",
+		"text16":"Enter Name",
+		"text17":"Mobile Number",
+		"text18":"Enter Mobile Number",
+		"text19":"Enter Address",
+		"text20":"Address",
+		"text21":"Select City",
+		"text22":"Pin Code",
+		"text23":"Enter Pin Code",
+		"text24":"Select State",
+		"text25":"Make Payment",
+		"text26":"Delivery State & City",
+		"text27":"The online purchase facility is not available till 6th Jul.",
+		"text28":"Thank You",
+		"text29":"Your order has been confirmed.Your order ID is ",
+		"text30":"Appointment already opened for this VIN.",
+		"text31":"Product not found.",
+		"text32":"Appointment time should be greater than selected time.",
+		"text33":"Product Price",
+		"text34":"The Service is provided in order to facilitate access to view and pay the price of merchandise online. Renault India Private Limited or its Authorised Dealer do not make any representation of any kind, express or implied, as to the operation of the Payment Gateway. By accepting to proceed with the payment you expressly agree that your use of this online payment service is entirely at your own risk.",
+		"text35":"You are now redirecting on 3rd party site. Renault India Private Limited do not make any representation of any kind, express or implied, as to the operation of the Payment Gateway. By accepting to proceed with the payment you expressly agree that your use of this online payment service is entirely at your own risk.",
+		"text36":"Thank you for your payment of RS.",
+		"text39":". An auto appointment has been requested against selected dealer, Kindly review the status from appointment section.",
+		"text37":"Thank You",
+		"btn_text1":"Disagree",
+		"btn_text2":"I Agree",
+		"text40":"Book Appointment",
+		"text41":"Are you sure you want to book appointment ?",
+		"text42":"Call Dealer",
+		"text43":"Inclusive of tax",
+		"text44":"Server connection error",
+		"text45":"Connection timeout,Please try again later  ",
+		"text46":"Appointment not found",
+		"internet_refresh":"Refresh the page",
+		"text47":"Information",
+		"text48":"Sorry for the inconvenience.",
+		"text49":"The server is busy from 10PM to 2AM. Kindly try again after some time.",
+		"text50":"OK",
+		"text51":"WoW",
+		"text52":"What's WoW?",
+		"text53":"Date",
+		"text54":"Timing",
+		"text55":"Where do you want to get this delivered?",
+		"text56":"Select delivery address/ Add New Address",
+		"text57":"Delivery charges :  ",
+		"text58":"Purchase above  ",
+		"text59":" & get delivery free",
+		"text60":"Total cost:",
+		"text61":"Pay Online",
+		"text62":"Registered Address (Delivery charge applicable)",
+		"text63":"Alternate Address (Delivery charge applicable)",
+		"text64":"Collect from dealership (Delivery charge not applicable)",
+		"text140":"Information",
+		"text141":"Sorry for the inconvenience.",
+		"text142":"DMS error.Try again later.",
+		"text143":"WoW",
+		"text144":"Workshop on Wheels (WoW) is a mobile workshop offering from Renault",
+		"text145":"Pay at dealership",
+		"text146":"Pay at dealership Success",
+		"text147":"Select your WoW schedule",
+		"text148":"Check WoW",
+		"text149":"Address",
+		"text150":"Select Location and your schedule",
+		"text151":"Select Dealer state & registered address state is not matching. Please use alternate address option.",
+		"text152":"Preffer Date",
+		"text153":"Prefer Time",
+		"text154":"Select Date",
+		"text155":"Select Time",
+		"text156":"Continue to Shop",
+		"text157":"The online purchase facility is not available till 6th Jul.",
+		"text158":"Your request has been forwarded to the selected dealer. Check “My Order” section under “MY Shop” for quick access to dealer",
+		"text159":"You can also get this fitted at nearby Workshop on Wheels(WoW)",
+		"text160":"Enter Pincode",
+		"preferred_day_limit":30,
+		"text161":"Add Address",
+		"text162":"Request submitted",
+		"text163":"Delivery Address",
+		"text164":"Collect from Dealership",
+		"text165":"Delivery Charges",
+		"text166":"Price Details",
+		"text167":"Amount Payable",
+		"text168":"Registered Address",
+		"text169":"Add New Address",
+		"text170":"Mobile",
+		"text171":"Collect from Dealership",
+		"text172":"Price",
+		"text173":"₹",
+		"text174":"Select Date"
+	 },
+	 "screen_renault_secure":{
+		 "title":"Renault Secure",
+		 "title1":"Renault Assistance",
+		 "text1":"Select Dealer",
+		 "text2":"Renault Secure provides your complete peace of mind even after the expiration of you new vehicle warranty.",
+		 "text3":"Download Brochure ",
+		 "text4":"Select the plan to purchase",
+		 "text5":"Total Cost",
+		 "text6":"(Inclusive of all taxes)",
+		 "text7":"Express Interest",
+		 "text8":"Purchase Now",
+		 "text9":"Renault Secure",
+		 "text10":"Your request has been Renault secure team for validation.For any assistance please contact Team Renault India at 1800 315 4444",
+		 "text11":"Call",
+		 "text12":"OK",
+		 "text13":"Disclaimer",
+		 "text14":"Disagree",
+		 "text15":"Thanks for your payment softcopy of your Renault secure document will be sent through your mail and hardcopy will be sent through courier.",
+		 "text16":"Payment failed",
+		 "text17":"The Service is provided in order to facilitate access to view and pay the price of merchandise online. Renault India Private Limited or its Authorised Dealer do not make any representation of any kind, express or implied, as to the operation of the Payment Gateway. By accepting to proceed with the payment you expressly agree that your use of this online payment service is entirely at your own risk.",
+		 "text18":"I Agree",
+		 "text19":"Server maintaince try again",
+		 "text20":"--",
+		 "text21":"--",
+		 "text22":"Success",
+		 "text23":"Failed", 
+		 "text24":"Renault Assist aims to provide you with complete peace of mind while on the road.",
+		 "text25":"Explore More...",
+		 "text26":"The Service is provide in order to facilitate access to view and pay the price of Renault Assist product purchase online. Renault India Private Limited or its Authorized Dealer do not make any representation on any kind, express or implied, as to the operation of the payment Gateway. By accepting to proceed with the payment you expressly agree that your use of this online payment service is entirely at your own risk" ,
+		 "text27":"* Enter Current KM",
+		 "text28":"Enter Current KM",
+		 "text29":"I agree to T&C",
+		 "text30":"Check eligibility",
+		 "text31":"Interest to Purchase",
+		 "text32":"Purchase Now",
+		 "text44":"Please try again later",
+		 "text45": "Please Agree to T&C",
+		 "text46": "Renault Easy care is a prepaid maintance program that make it easy to keep your vehicle running at best.",
+		 "text47": "Select Kilometer Range",
+		 "text48": "Low (Vehicle running < 10,000 KM/Year)",
+		 "text49": "High (Vehicle running > 10,000 KM/Year)",
+		 "link1":"https://www.renault.co.in/Renault-Services/renault-assistance.html",
+		 "link2":"https://www.renault.co.in/Renault-Services/renault-secure.html",
+		 "link3":"https://www.renault.co.in/Renault-Services/easycare.html",
+		 "message1":"Thank You! Your transaction has been completed successfully. The policy document will be sent to you on your registered email ID shortly" ,
+		 "message2":"Sorry! Your Payment was failed. Please try again in some time.",
+		 "message3":"Thanks for showing interest, our dealer executive will connect with you shortly",
+		 "message4":"You are not eligible for Easy Care"
+	 },
+	 "screen_shopping_list":{
+		 "title":"Product Description",
+		 "text1":"off:",
+		 "text2":"QTY:",
+		 "text3":"Price:",
+		 "text4":"Description:",
+		 "text5":"Read more...",
+		 "text6":"Terms & Conditions:",
+		 "text7":"Services terms... ",
+		 "text8":"Call Dealer",
+		 "text9":"Add to Cart",
+		 "text10":"Atleast one quantity for each product",
+		 "text11":"Maximum three quantity for each product",  
+		 "text12":"Your product is added to cart",
+		 "text13":"Available in cart",
+		 "text14":"",
+		 "text15":"The images shown are only for reference. The colour, texture, shape and size may vary. ",
+		 "text16":"Show less",
+		 "text17":"You are advised to check with the Dealer regarding the availability of the product before you visit the Dealership. Renault India Private Limited or its Authorized Dealer do not assume any responsibility if you do not collect your merchandise within ………..days of procuring it.",
+		"text18":"For any other concern please call the Renault Authorized Dealer.",
+		"text19":"Inclusive of tax",
+		"text20":"<ul> <li>The images of the products on our app are for illustrative purposes only. Your product may vary slightly from those. </li><li>All the prices as indicated herein inclusive of all taxes and subject to change without prior notice.</li><li>You are advised to strictly verify the part applicability / model before procuring it.</li></ul>",
+		"text21":"<ul> <li>The images of the products on our app are for illustrative purposes only. Your product may vary slightly from those. </li><li>All the prices as indicated herein inclusive of all taxes and subject to change without prior notice.</li><li>You are advised to strictly verify the part applicability / model before procuring it.</li><li>You are advised to visit dealership within 15 days after placing the request for procurement of the product/Services. </li><li>The accessories stock at dealership is subject to change hence it is advisable for you to call dealership to enquire about desired accessories before visiting dealer to avoid inconvenience.</li><li>Applicable offers are valid only at Renault authorized workshops. </li><li>Any additional work other than this offer will be chargeable as applicable.</li><li>This offer cannot be assigned/ transferred to any other person or customer.</li><li>To avoid inconvenience, you are advised to call the dealership to take an appointment before visiting the dealership.</li><li>This offers cannot be exchanged for cash or any other offers/discounts that may be offered by the dealership. Further once issued this offer cannot be reversed. </li><li>RIPL reserves the right to, without liability or prejudice to any of its other rights, at any time, without previous notice, withdraw/suspend/amend/cancel this offer, with or without assigning any reason thereto.</li><li>RIPL has the sole discretion to change, suspend cancel or modify these terms and conditions at any time without prior notice, at its sole discretion.</li><li>For more information please contact Renault customer care at 1800 315 4444</li><li>These terms are governed by Indian laws and in event of dispute, the courts of Delhi will have exclusive jurisdiction</li></ul>",
+		"internet_refresh":"Refresh the page",
+		"text22":"Charges applicable*",
+		"text23":"Maximum four quantity for each product",
+		"text24":"Product quantity exceed from the product limit",
+		"text25":"Server error",
+		"text26":"Home delivery available",
+		"text27":"Product delivery",
+		"text28":"Applicable for workshop fitment",
+		"text29":"Connect with Dealer",
+		"text30":"Thanks for giving the feedback",
+		"text31":"Give rating to the product",
+		"text32":"Please enter the review"
+	 },
+	 "screen_my_document":{
+		"banner_text1":"EVERYTHING ABOUT",
+		"banner_text2":"MY",
+		"banner_text3":" Renault",
+		"title":"My Documents",
+		"text1":"Save your",
+		"text2":"Documents",
+		"text3":"Expires On",
+		"text4":"Select Document",
+		"max_date":"2222-12-31",
+		"doc_type1":"My Personal Documents",
+		"doc_type2":"My Vehicle Documents",	
+		"doc_category1":"Driving Licence",
+		"doc_category2":"Aadhaar Card",
+		"doc_category3":"Passport",
+		"doc_category4":"PAN Card",
+		"doc_category7":"Pollution Under Control",
+		"doc_category8":"Vehicle Invoice",
+		"doc_category6":"Registration Certificate",
+		"doc_category9":"Extended Warranty Certificate",
+		"doc_category10":"Renault Assist Certificate",
+		"doc_category11":"Renault Secure Certificate",
+		"doc_category5":"Insurance",
+		"doc_category13":"Extended Warranty Certificate",
+		"doc_category14":"Renault Secure Certificate",
+		"dialog_title1":"Disclaimer",
+		"dialog_title2":"Confirmation",
+		"message1":"The documents uploaded here in by yourself are purely at your discretion. Renault India does not take any responsibility for the security of the documents stored.",
+		"message2":"File upload failed. Try again...",
+		"message3":"File size is too large (Maximum 3MB)",
+		"message4":"Select the expiry date",
+		"message5":"The selected file format is not supported  or the document path you have selected is Invalid...",
+		"message6":"Are you sure you want to delete this document(s)?",
+		"message7":"There is a problem downloading the file. Try again...",
+		"message9":"Select atleast one file to delete.",
+		"message10":"Please upload one document.",
+		"button_text1":"Cancel",
+		"button_text2":"Confirm",
+		"text5":"2100-12-31",
+		"text10":"Dear ",
+		"text11":", your PUC certificate will expire on ",
+		"text12":". Please renew the same to avoid any inconvenience, if already renewed, update new expiry date in vehicle profile",
+		"text13":", your Car Insurance will expire on ",
+		"text14":"OK",
+		"text15":"Reminder",
+		"text28":"You have not completed your PUC document information. Update the details in My Documents",
+		"text29":"Complete your document information in My Documents",
+		"internet_refresh":"Refresh the page",
+		"text30":"You can upload the documents in JPEG & PDF format maximum upto 5 MB. Upload the document from file manager only",
+		"text31":"Delete",
+		"text32":"Cancel",
+		"text33":"you can upload the documents in JPEG format maximum upto 5 MB",
+		"text34":"Cancel",
+		"text35":"Ok",
+		"message11":"Confirmation",
+		"message12":"Are you sure to change the expire date?"
+	 },
+	 "screen_my_renault_world":{
+		"title1":"My Renault World",
+		"title2":"Renault Social",
+		"title3":"Our Social Networks",	
+		"title4":"Nearby",
+		"title5":"Locate Dealer",
+		"title6":"Express Service",
+		"text1":"Pinch to zoom in and zoom out",
+		"tab_text1":"List View",
+		"tab_text2":"Map View",
+		"message1":"No results found",
+		"message2":"Please Select State and City",
+		"internet_refresh":"Refresh the page",
+		"gps_text1":"Click the location icon to view NearBy selection",
+		"test_drive_sucess":"Thanks for Showing Interest, Our Dealer Staff executive will  get in touch with you",
+		"test_drive_fail":"As per our records we already have this request available in our systems. This one cannot be submitted",
+		"test_drive_server":"Oops! Technical issue occurred, Please try again submitting ",
+		"btn1":"ok",
+		"btn2":"Retry",
+		"text2":"Showroom",
+		"text3":"Workshop",
+		"text4":"Bodyshop",
+		"text5":"Express service",
+		"text6":"Address",
+		"text7":"Call dealer",
+		"text8":"Get Direction",
+		"text9":"Petrol Pump",
+		"text10":"Restaurant",
+		"text11":"Hotel",
+		"text12":"Hospital",
+		"text13":"ATM"
+
+	 }, 
+	 "screen_express_interest":{
+		"title1":"Express Interest",
+		"text1":"Name",
+		"text2":"Email",	
+		"text3":"Mobile number" 
+	 }, 
+	 "addjobs":{
+		"text1":"Add jobs",
+		"text2":"Confirm"
+	 },
+	 "screen_my_support":{
+		 "banner_text1":"EVERYTHING ABOUT",
+		"banner_text2":"MY",
+		"banner_text3":"Contact Us",
+		 "title":"My Support",
+		 "title1":"Write to us",
+		 "title2":"Renault Assistance",
+		 "title3":"Customer support",
+		 "menu":[{"title":"Customer Support"},{"title":"Renault Assistance"},{"title":"Locate My Vehicle"}, {"title":"FAQs"},{"title":"Fuel Log"},{"title":"Road Sign"},{"title":"Survey"}],
+		 "text1":"Want to talk?",
+		 "text2":"One of our advisors will get back to you soon as possible,regardless of the nature of your question or complaint.",
+		 "text3":"*Your current location will be captured to assist you better. It is recommended to call us…",
+		 "text4":"Need Assistance",
+		 "text5":"Your Renault is broken down? Don’t worry. We are there to help you",
+		 "text6":"Ticket ID",
+		 "text7":"Created On",
+		 "text8":"Current Status",
+		 "text9":"Asp Assigned",
+		 "text10":"Started",
+		 "text11":"Closed",
+		 "text12":"Set Vehicle Location",
+		 "text13":"By Photo & Notes",
+		 "text14":"By Map",
+		 "text15":"Any Questions ?",
+		 "text16":"We have the answers.",
+		 "text17":"Questions about my profile",
+		 "text18":"Ticket ID",
+		 "text19":"Created On",
+		 "text20":"Current Status",
+		 "text21":"Problem",
+		"text22":"Add Notes",
+		"text23":"Thank you for your valuable feedback. What you have like the most ",
+		"text25":"Click track button to know the current status of your RSA request",
+		"text24":"Regret for the convenience caused, What would you recommend us to Improve further ",
+		"text26":"Delete",
+		 "faq_list":[{"title":"How do I change my personal information?",
+					 "text":[{"title":"1. In the menu. Click on “My Profile” in the top left."},{"title":"2. On the “My profile” page, click on the paintbrush icon to the right of the information you want to edit."},{"title":"3. Enter your new details."},{"title":"4. Just click on “Confirm” to save your changes."}]},
+					 {"title":"How do I get MY Renault offers and news?",
+					 "text":[{"title":"The MY Renault e-newsletter ensures you always know about the latest Renault news. You will also get special offers designed for  your Renault and you."},{"title":"1. In the menu, click on “My profile” in the top left."},{"title":"2. On the “My profile” page, go to the “My preferences” section"},{"title":"3. Answer “yes” to “I would like to receive MY Renault offers and news”"},{"title":"4. Then tick your preferences"}]},
+					{"title":"How do I change my communication preferences?",
+					 "text":[{"title":"1. In the menu, click on “My profile” in the top left"},{"title":"2. On the “My profile” page, go to the “My preferences” section"},{"title":"3. Lastly, check or uncheck the relevant boxes"}]},
+					 {"title":"How do I delete my account?",
+					 "text":[{"title":"By deleting your account, all the customized services associated with your account and your Renault will be lost. Are you sure you wish to leave the site?"},{"title":"1. In the menu, click on “My profile” in the top left."},{"title":"2. At the bottom of this page, click on ”Delete my account”"},{"title":"3. Lastly, click on “Delete” to confirm"}]},
+					 {"title":"How do I add MY Renault to my personal space?",
+					 "text":[{"title":"1. In the menu, click on “My cars” in the top left"},{"title":"1. In the menu, click on “My profile” in the top left."},{"title":"2. On the vehicle image, slide the finger sideways to the last screen"},{"title":"3. Enter the identification number of you Renault "},{"title":"4. Lastly, click on “Confirm” to confirm "}]},
+					  {"title":"How do I change the details of MY Renault?",
+					 "text":[{"title":"1. In the menu, click on “My cars” in the top left"},{"title":"2. If you have more than one Renault, select the on whose details you want to change (on the vehicle image, slide the finger sideways)"},{"title":"3. On the page for you Renault, in the top left, click on “Edit”"},{"title":"4. Enter you new details and click on “Confirm”"}]},
+					 {"title":"How do I delete My Car from MY Renault account? ",
+					 "text":[{"title":"1. In the menu, click on “My cars” in the top left"},{"title":"2. If you have more than on Renault, select the one you want to delete(on the vehicle image, side the finger sideways)"},{"title":"3.On the page for your Renault, in the top left, click on “Edit”"},{"title":"4. Click on “Delete my vehicle”"},{"title":"5. Lastly, click on “confirm” to confirm"}]}
+					 ],
+					 "faq_questions": [
+		{
+			"header": "General Information:",
+			"is_video":"1",
+			"video_url":"https://myrdev.renault-india.com/faq/index.html?0",
+			"questions": [
+			  {
+				"question_title": "Any minimum requirement of phone/iOS for installing MY Renault app",
+				"answer": [
+				{
+					"answer": "Make Sure you have"
+				},
+				{
+					"answer": "1. Android Mobile with OS version Kitkat or above and iOS above 7.0 version"
+				},
+				{
+					"answer": "2. At least 3G Internet connectivity"
+				},
+				{
+					"answer": "3. 1.5 GB of RAM (Recommended)"
+				},
+				{
+					"answer": "4. 4 GB of memory space"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "header": "Login / Registration: ",
+		  	"is_video":"1",
+			"video_url":"https://myrdev.renault-india.com/faq/index.html?1",
+		  "questions": [
+			{
+			  "question_title": "In case of following error messages during login or registration on to MY Renault app, please note the following possible reasons",
+			  "answer": [
+				{
+				  "answer": "1. # App Error Message: “This Mobile number is not registered on MYR, Kindly proceed with SIGN UP”"
+				},
+				{
+				  "answer": "1.1 Reason for error- Provided mobile number is not yet registered on MY Renault app"
+				},
+				{
+				  "answer": "1.1.1. Action- SIGN UP with valid VIN number & linked Mobile number"
+				},
+				{
+				  "answer": "1.2 Reason for error- Provided mobile number is linked with any VIN as per Renault database"
+				},
+				{
+				  "answer": "1.2.1 Action- Connect with Renault dealership to update your mobile number "
+				},
+				{
+				  "answer": "2. # App Error Message: “Invalid Mobile number or password”"
+				},
+				{
+				  "answer": "2.1 Reason for error - Provided mobile number is not registered or password does not match with the registered mobile number."
+				},
+				{
+					"answer": "2.1.1 Action- In case you forgot your password, please use the “Forgot password” link in login page to regenerate your password"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "header": "My Profile: ",
+		  	"is_video":"1",
+			"video_url":"https://myrdev.renault-india.com/faq/index.html?2",
+		  "questions": [
+			{
+			  "question_title": "How do I change my personal information?",
+			  "answer": [
+				{
+				  "answer": "1. Click on Burger Menu on the top left hand side"
+				},
+				{
+				  "answer": "2. Tap on My Profile section to view and change desired personal information"
+				},
+				{
+				  "answer": "3. Edit Email ID or Date of Birth, as required"
+				},
+				{
+				  "answer": "4. In case you change the Email ID, please verify the same using verification link sent to the new Email ID"
+				}
+			  ]
+			},
+			{
+			  "question_title": "Which information is allowed to be changed from app?",
+			  "answer": [
+				{
+				  "answer": "Date of Birth, E-mail ID & profile picture can be changed from the app. The e-mail would be verified using the verification process upon changing."
+				}
+			  ]
+			},
+			{
+			  "question_title": "How do I change my Email ID?",
+			  "answer": [
+				{
+				  "answer": "1. In the 'MY profile' page, click on the icon to the right of the Email ID."
+				},
+				{
+				  "answer": "2. Enter your new Email ID"
+				},
+				{
+				  "answer": "3. Click on 'Right' Icon to save your changes in My Renault account."
+				},
+				{
+	 				"answer": "4. Click on the verification link, sent to new email ID"
+				}
+			  ]
+			},
+			{
+			  "question_title": "How do I Update my Date of Birth? ",
+			  "answer": [
+				{
+				  "answer": "1. In the 'MY profile' page, click on the icon to the right of the Date of Birth"
+				},
+				{
+				  "answer": "2. Enter your Date of Birth"
+				},
+				{
+				  "answer": "3. Tap on 'Confirm' to save your changes in My Renault account"
+				}
+			  ]
+			},
+			{
+				"question_title": "How do I Update my Profile picture? ",
+				"answer": [
+				  {
+					"answer": "1. In the 'MY profile' page, click on the camera icon on the left of your name"
+				  },
+				  {
+					"answer": "2. Capture image using camera or upload any image from gallery."
+				  },
+				  {
+					"answer": "3. Click on 'Confirm' to save your changes in My Renault account."
+				  }
+				]
+			  }
+		  ]
+		},
+		{
+		  "header": "My Vehicle(s): ",
+		  	"is_video":"1",
+			"video_url":"https://myrdev.renault-india.com/faq/index.html?3",
+		  "questions": [
+			{
+			  "answer": [
+				{
+				  "answer": "Can I change the colour of my vehicle after I add it?"
+				},
+				{
+				  "answer": "The colour of the vehicle is one time selection after successful registration on MY Renault. You will not be able to change the color of the vehicle once you have saved the color on the app."
+				}
+			  ]
+			},
+			{
+			  "question_title": "I have more than 1 car. Can I add all of them into MY Renault account?",
+			  "answer": [
+				{
+				  "answer": "You can add multiple Renault Vehicles in your account. While adding each car, OTP verification process using mobile number and VIN number of the vehicle will follow. Make sure, you have the same mobile updated in Renault database for all your vehicles. If not, visit nearest authorized Renault Dealership to update your mobile number against your vehicles."
+				},
+				{
+				  "answer": "Once your vehicles have same mobile number updated in Renault database, you can add multiple vehicles by following the steps below:"
+				},
+				{
+				  "answer": "1. Tap on 'My vehicle(s)' from burger menu or home screen"
+				},
+				{
+				  "answer": "2. Tap on the + icon on the bottom right of the image at the top of the screen"
+				},
+				{
+				  "answer": "3. Then enter VIN of the vehicle you want to add into your account"
+				},
+				{
+				  "answer": "4. Enter OTP received on your mobile and confirm"
+				}
+			  ]
+			},
+			{
+				"question_title": "How can I delete a vehicle which I added?",
+				"answer": [
+				  {
+					"answer": "1. Go to 'My Vehicle(s)'"
+				  },
+				  {
+					"answer": "2. Choose the vehicle you want to delete"
+				  },
+				  {
+					"answer": "3. Scroll down to the bottom of the screen"
+				  },
+				  {
+					"answer": "4. Tap on icon and confirm to delete the vehicle from your MY Renault account"
+				  },
+				  {
+					"answer": "Please note:"
+				  },
+				  {
+					"answer": "1. If you have only 1 vehicle in your account, your MYR Account will also get deleted at same time"
+				  },
+				  {
+					"answer": "2. If you have more than 1 vehicle, deleting 1 vehicle will remove only that vehicle but MY Renault account will remain active"
+				  }
+				]
+			  },
+			  {
+				"question_title": "I have only 1 vehicle in my account. Can I delete it and still keep my account active?",
+				"answer": [
+				  {
+					"answer": "No. If you have only 1 vehicle, deleting this vehicle will automatically delete your MY Renault Account as well."
+				  }
+				]
+			  },
+			  {
+				"question_title": "How to update any information regarding my vehicle?",
+				"answer": [
+				  {
+					"answer": "All particulars of your vehicle, apart from “Insurance Expiry Date” and “PUC Expiry Date” are shown as per the details updated in Renault database. In case you observe any discrepancy in vehicle details apart from “Insurance Expiry Date” and “PUC Expiry Date”, kindly contact nearest Renault authorised dealer to update the details. "
+				  },
+				  {
+					"answer": "To update Insurance & PUC Expiry Dates, follow the steps below:"
+				  },
+				  {
+					"answer": "1. Tap “My Documents(s)” section"
+				  },
+				  {
+					"answer": "2. Tap  “Vehicle related documents ” & select document "
+				  },
+				  {
+					"answer": "3. Set expiry date & upload picture using camera or gallery mode"
+				  },
+				  {
+					"answer": "4. Information will be updated & same will reflect in My Vehicle(s) tab under Additional Information "
+				  }
+				]
+			  },
+			  {
+				"question_title": "I have car loan from Renault Finance. Can I view my loan account in app?",
+				"answer": [
+				  {
+					"answer": "Yes, add you load account in app to view the details. To add Renault finance loan account, follow the steps below:"
+				  },
+				  {
+					"answer": "To update Insurance & PUC Expiry Dates, follow the steps below:"
+				  },
+				  {
+					"answer": "1. Tap “My Vehicle(s)” section "
+				  },
+				  {
+					"answer": "2. Tap  “Renault Finance ” & click on + icon "
+				  },
+				  {
+					"answer": "3. Enter your Loan account number & Pan card number & click on “Submit”"
+				  },
+				  {
+					"answer": "4. Loan account will be added & you can view the loan account details."
+				  }
+				]
+			  }
+		  ]
+		},
+		{
+		  "header": "My Services: ",
+		  	"is_video":"1",
+			"video_url":"https://myrdev.renault-india.com/faq/index.html?4",
+		  "questions": [
+			{
+			  "question_title": "I cannot see all service details for my vehicle in my account",
+			  "answer": [
+				{
+				  "answer": "All services of your vehicle done at authorized Renault workshops are displayed in MY Renault. By default, 2 latest service details are visible for the chosen vehicle. Tap on “Show more” to view more service records for the vehicle "
+				}
+			  ]
+			},
+			{
+				"question_title": "How do I book a service appointment from MY Renault?",
+				"answer": [
+				  {
+					"answer": "1. You can navigate to “Appointment” screen from the home screen or my tapping “Appointments” under “My Services” in the burger menu"
+				  },
+				  {
+					"answer": "2. Select the vehicle, the preferred workshop, preferred date and time, enter pick-up address (if any), etc."
+				  },
+				  {
+					"answer": "3. Please note that you can only request for an appointment after 24 hrs from the same day"
+				  },
+				  {
+					"answer": "4. Once you “confirm” your request, you should be contacted from the chosen workshop to confirm your appointment. Else, you may choose to contact the workshop to get an update on your appointment request"
+				  },
+				  {
+					"answer": "5. Once the workshop confirms your appointment, the status of the same changes from “Requested” to 'Confirmed'"
+				  },
+				  {
+					"answer": "6. Kindly note that while the workshop would try to accommodate your service on the date and time requested by you, they may request for another date/time based on operational factors "
+				  }
+				]
+			  },
+			{
+			  "question_title": "I want to cancel a confirmed appointment raised from app. How can I do it?",
+			  "answer": [
+				{
+				  "answer": "1. Go to “Appointments” tab under “My Service(s)” for the chosen vehicle. Your confirmed appointment should be displayed in this screen"
+				},
+				{
+					"answer": "2. Click on “Call” button below to contact the workshop where you submitted the service  request"
+				},
+				{
+					"answer": "3. Suggest the workshop to cancel or re-schedule the appointment"
+				},
+				{
+					"answer": "4. You may send another appointment request from the app for the same vehicle once the earlier appointment has been cancelled or closed"
+				}
+			  ]
+			},
+			{
+			  "question_title": "Can I make payment for services done for my vehicle through the app?",
+			  "answer": [
+				{
+				  "answer": "Yes. You can make payment for service of your vehicle to the workshop directly from the app, irrespective of whether the appointment is made through the app or not. To make a payment for service, go to “Service Payment” tab under “My Services”"
+				}
+			  ]
+			},
+			{
+			  "question_title": "I want to know status of my payment made against a service. Where can I find it?",
+			  "answer": [
+				{
+				  "answer": "1. Go to “My Profile” from burger menu"
+				},
+				{
+				  "answer": "2. Tap “May App Payments” to view list of payments made through the app"
+				},
+				{
+				  "answer": "3. You may filter by date or type of payment, if needed"
+				}
+			  ]
+			},
+			{
+			  "question_title": "I used the “Service Calculator” to estimate my service cost. But the cost being charged by the workshop is different. Why?",
+			  "answer": [
+				{
+				  "answer": "The Service Calculator in MY Renault provides an estimate of periodic maintenance cost for your vehicle. The service cost as displayed in app is only an approximate value. It may vary upon actual evaluation of vehicle at the Dealership and availment of Value Added Services. Please speak to the workshop in case you need more clarity on the service cost incurred."
+				}
+			  ]
+			},
+			{
+				"question_title": "I cannot find the desired On-Demand Job in Service cost calculator. How can I know the cost of the same?",
+				"answer": [
+				  {
+					"answer": "Please connect to the Renault Dealer to know the cost of desired On-Demand Job or for any other query."
+				  }
+				]
+			  }
+		  ]
+		},
+		{
+		  "header": "My Shop:  ",
+		  	"is_video":"1",
+			"video_url":"https://myrdev.renault-india.com/faq/index.html?5",
+		  "questions": [
+			{
+			  "question_title": "I want to purchase an accessory & merchandise listed on MY Renault. Can I purchase and make online payment?",
+			  "answer": [
+				{
+				  "answer": "You can purchase accessories & merchandise listed on the MY Renault APP and can make an online payment for the same."
+				},
+				{
+					"answer": "*This online purchase facility of Accessories & merchandise is available only in select cities. In case you don’t see the online purchase option, your city is not in the select cities."
+				}
+			  ]
+			},
+			{
+			"question_title": "Can I get order Accessories & merchandise delivered for home delivery?",
+			"answer": [
+				{
+				"answer": "The online purchase facility of Accessories & merchandise is available only in select cities. Home delivery option is subject to product category. You may check the product eligibility for home delivery in the product description. After placing the order, please connect with your dealer for fulfillment."
+				}
+			]
+			},
+			{
+			"question_title": "I bought a commercial offer through MY Renault. Where can I avail the service?",
+			"answer": [
+				{
+				"answer": "The service package which you purchased through MY Renault can be availed from the dealership you selected through the app while purchasing the package. Please make sure you avail the package within the validity of the package as mentioned in the app."
+				}
+			]
+			},
+			{
+				"question_title": "I want to make online payment for a commercial offer/ Accessories & merchandise to my selected dealer, but it is not being allowed. Why?",
+				"answer": [
+					{
+					"answer": "This would occur when the online payment facility is not enable for selected dealer. You may still avail the services at your chosen dealer and pay directly at the dealership."
+					}
+				]
+			},
+			{
+				"question_title": "How can I cancel an order I placed through the app? Will I get refund of the amount I have paid?",
+				"answer": [
+					{
+					"answer": "You can cancel an order by contacting the dealership on whom you have placed the order. Kindly note that the payment made through the app is received by the chosen dealer. For any payment/refund related queries, kindly contact the dealership."
+					}
+				]
+			},
+			{
+				"question_title": "I cannot find the desired Accessories in MY Renault APP. Can I place a request for the missing product on MY Renault APP?",
+				"answer": [
+					{
+					"answer": "Please connect to your preferred Renault Dealer to place a request for any additional product which is not available on MY Renault APP. Dealer will do the fulfilment process."
+					}
+				]
+			}
+		  ]
+		},
+		{
+		  "header": "My Renault World: ",
+		  	"is_video":"1",
+			"video_url":"https://myrdev.renault-india.com/faq/index.html?6",
+		  "questions": [
+			{
+			  "question_title": "How to find a Renault dealer?",
+			  "answer": [
+				{
+				  "answer": "1. Go to “Locate dealer” under “My Renault World"
+				},
+				{
+				  "answer": "2. You can pin your location by clicking the Pin Icon"
+				},
+				{
+				  "answer": "3. Zoom in our Zoom out the map to view location of Renault authorized dealers on the map"
+				},
+				{
+				  "answer": "4. You may click on “Filter” icon to view Showrooms, Workshops or Bodyshops"
+				},
+				{
+				  "answer": "5. Click on “List” icon to navigate from “Map view” to “List view” of dealers"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "header": "My Support:  ",
+		  	"is_video":"1",
+			"video_url":"https://myrdev.renault-india.com/faq/index.html?7",
+		  "questions": [
+			{
+			  "question_title": "I raised a request for Road Side Assistance. I can’t track the progress of the assistance vehicle. Why?",
+			  "answer": [
+				{
+				  "answer": "The tracking of assistance vehicle is available in selected cities. In case the tracking option is disabled, the city may not be enabled for online tracking of assistance vehicle. "
+				}
+			  ]
+			},
+			{
+			  "question_title": "I am facing trouble regarding logging on to the app. Can the dealership help me resolve it?",
+			  "answer": [
+				{
+				  "answer": "Dealership will be able to help you in case of updating your mobile number in Renault database, and you can receive OTP on the updated mobile number. In case you anticipate any technical issues, please call us on 1800 315 4444 or write to us at customer@renault.com"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+			"header": "Book a Car:  ",
+				"is_video":"1",
+			"video_url":"https://myrdev.renault-india.com/faq/index.html?11",
+			"questions": [
+			  {
+				"question_title": "Can I book a Renault through MY Renault APP?",
+				"answer": [
+				  {
+					"answer": "Yes, you can book a car via MY Renault APP & pay online booking amount."
+				  },
+				  {
+					"answer": "1. Click on Book a car tab on Home Page"
+				  },
+				  {
+					"answer": "2. Select the Fuel Type, Model, Variant & Dealer"
+				  },
+				  {
+					"answer": "3. Proceed to payment & complete your booking"
+				  },
+				  {
+					"answer": "** Make sure you update your email ID in My Profile module of app before booking a car."
+				  }
+				]
+			  },
+			  {
+				"question_title": "Can I cancel my car booking from APP? ",
+				"answer": [
+				  {
+					"answer": "You can cancel an order by contacting the dealership on whom you have placed the order. Kindly note that the payment made through the app is received by the chosen dealer. For any payment/refund related queries, kindly contact the dealership."
+				  }
+				]
+			  },
+			  {
+				"question_title": "Can I change the variant or colour of selected vehicle after the booking?",
+				"answer": [
+				  {
+					"answer": "Please connect with your selected Renault Dealership to make the changes in booking."
+				  }
+				]
+			  },
+			  {
+				"question_title": "I want to know status of my car booking. Where can I find it?",
+				"answer": [
+				  {
+					"answer": "Please connect with your selected Renault Dealership to know the status of your car booking or you can also check the status of booking in APP."
+				  },
+				  {
+					"answer": "1. Click on Burger menu icon on the top left hand side of app"
+				  },
+				  {
+					"answer": "2. Tap on My Profile section to view"
+				  },
+				  {
+					"answer": "3. Click on My Request tab to check the status of your booking"
+				  }
+				]
+			  }
+			]
+		  },
+		  {
+			"header": "Express Interest:  ",
+				"is_video":"1",
+			"video_url":"https://myrdev.renault-india.com/faq/index.html?12",
+			"questions": [
+			{
+			"answer": [
+				{
+					"answer": "In case of following error messages during expressing interest on to MY Renault app, please note the following possible reasons"
+				},
+				{
+					"answer": "1. # App Error Message: “Sorry, you have already enquired for Renault. Our dealership will connect with you soon” "
+				},
+				{
+					"answer": "1.1 Reason for error - An enquiry with your mobile number for the vehicle model already exist with select dealer."
+				},
+				{
+					"answer": "1.2 Action – Please contact to the dealership which you have selected at the time of submitting enquiry"
+				},
+				{
+					"answer": "2. # App Message: “Sorry, leads cannot be created, please try again later"
+				},
+				{
+					"answer": "2.1 Reason for error - This can be due to technical failure."
+				},
+				{
+					"answer": "2.2 Action - Please try to create leads after some time"
+				}
+			]
+			},
+			  {
+				"question_title": "Can I track the status of my request on App?",
+				"answer": [
+				  {
+					"answer": "Yes, you can track the status of your request on App."
+				  },
+				  {
+					"answer": "1. Click on Burger menu icon on the top left hand side"
+				  },
+				  {
+					"answer": "2. Tap on My Profile section to view "
+				  },
+				  {
+					"answer": "3. Click on My Request tab to check the status of your request"
+				  }
+				]
+			  }
+			]
+			},
+			{
+		  "header": "Refer a Renault: ",
+		  "is_video":"1",
+			"video_url":"https://myrdev.renault-india.com/faq/index.html?19",
+		  "questions": [
+			{
+			  "question_title": "How can I refer a friend/relative to buy a Renault car on MY Renault?",
+			  "answer": [
+				{
+				  "answer": "1. Follow the below mentioned steps."
+				},
+				{
+				  "answer": "2. Go to dashboard"
+				},
+				{
+				  "answer": "3. Click on Refer & Earn on footer menu"
+				},
+				{
+				  "answer": "4. Verify your details & enter referee details & submit the enquiry to share the referral with Renault."
+				} 
+			  ]
+			},
+			{
+			  "question_title": "Am I entitled to any benefits if my referee buys a Renault car?",
+			  "answer": [
+				{
+				  "answer": "Yes, you are entitled to a Renault voucher of Rs. 3000/-, which you can redeemed in subsequent services of your vehicle. However you shall be entitled to the said voucher only if your referee buys a Renault car at the Renault outlet where you have referred him/her. You will be notified of Referral Renault voucher credit on your MY Renault account upon purchase of Renault vehicle by your referee against the referral submitted by you."
+				},
+				{
+				  "answer": "Please note that if your referee buys a car from any dealership other than the one your referred him/her to, you will not be entitled to the above benefits. For clarity it is reiterated that the car retailed to your referee should be brought from the same Dealership that has been referred by yourself.  The benefit of Rs. 3000 is liable to change, at the discretion of Renault India, without prior notice."
+				}
+			  ]
+			},
+			{
+			  "question_title": "What is the validity of Referral voucher?",
+			  "answer": [
+				{
+				  "answer": "2 years from the date of purchase of Renault vehicle by your referee against the referral submitted by yourself."
+				} 
+			  ]
+			},
+			{
+			  "question_title": "How can I avail the referral benefits?",
+			  "answer": [
+				{
+				  "answer": "Referral voucher can be redeemed at Authorized Renault workshop for repair, accessories & merchandise only. Your MY Renault account should be active at time of redemption and this is a compulsory criterion."
+				} 
+			  ]
+			},
+			{
+			  "question_title": "Will my referee get any benefits on purchase of new car?",
+			  "answer": [
+				{
+				  "answer": "Depends upon the scheme applicable during the time of purchase, as decided by the Company."
+				} 
+			  ]
+			},
+			{
+			  "question_title": "I have given the referral through the Renault Website and my referee has purchase the car. Am I entitled for Referral benefit?",
+			  "answer": [
+				{
+				  "answer": "Yes, you are entitle for Referral benefits. "
+				} 
+			  ]
+			}
+		  ]
+		},
+		  {
+			"header": "My Setting:  ",
+				"is_video":"1",
+			"video_url":"https://myrdev.renault-india.com/faq/index.html?8",
+			"questions": [
+			{
+				"question_title": "How can I delete any notification?",
+				"answer": [
+				  {
+					"answer": "Long press the notification and tap on the delete button to delete notification."
+				  }
+				]
+			  },
+			  {
+				"question_title": "I used to receive notifications in the app, but haven’t received for quite some time. Why is it so?",
+				"answer": [
+				  {
+					"answer": "At the time of registration to MY Renault, you agree to receive notifications from Renault India. In case you are not receiving notifications, kindly check settings of your phone and review if you have enabled MY Renault to send you notifications."
+				  }
+				]
+			  },
+			  {
+				"question_title": "How can I change my password?",
+				"answer": [
+				  {
+					"answer": "1. Go to My Settings section"
+				  }, 
+				  {
+					"answer": "2. Select “Change password” "
+				  },
+				  {
+					"answer": "3. Enter current password and choose new password"
+				  }
+				]
+			  },
+			  {
+				"question_title": "Can I change my username?",
+				"answer": [
+				  {
+					"answer": "User name for logging on to MY Renault is your mobile number which you verified while registering on to the app. You cannot change the username for MY Renault"
+				  }
+				]
+			  },
+			  {
+				"question_title": "How do I delete my account?",
+				"answer": [
+				  {
+					"answer": "1. Tap on 'MY Settings' at the bottom of the burger menu"
+				  },
+				  {
+					"answer": "2. Select  'Delete Account' to delete your account"
+				  },
+				  {
+					"answer": "Once deleted, all information related to you and your vehicles added in your account will be lost. In case you register with the same mobile number on to MY Renault later, you will need to add all the vehicles in your account / update all details in your account"
+				  }
+				]
+			  }
+			]
+		  }
+	  ],
+		"faq_list_guest":[{"title":"How do I change my personal information?",
+					 "text":[{"title":"1. In the menu. Click on “My Profile” in the top left."},{"title":"2. On the “My profile” page, click on the paintbrush icon to the right of the information you want to edit."},{"title":"3. Enter your new details."},{"title":"4. Just click on “Confirm” to save your changes."}]},
+					 {"title":"How do I get MY Renault offers and news?",
+					 "text":[{"title":"The MY Renault e-newsletter ensures you always know about the latest Renault news. You will also get special offers designed for  your Renault and you."},{"title":"1. In the menu, click on “My profile” in the top left."},{"title":"2. On the “My profile” page, go to the “My preferences” section"},{"title":"3. Answer “yes” to “I would like to receive MY Renault offers and news”"},{"title":"4. Then tick your preferences"}]},
+					{"title":"How do I change my communication preferences?",
+					 "text":[{"title":"1. In the menu, click on “My profile” in the top left"},{"title":"2. On the “My profile” page, go to the “My preferences” section"},{"title":"3. Lastly, check or uncheck the relevant boxes"}]},
+					 {"title":"How do I delete my account?",
+					 "text":[{"title":"By deleting your account, all the customized services associated with your account and your Renault will be lost. Are you sure you wish to leave the site?"},{"title":"1. In the menu, click on “My profile” in the top left."},{"title":"2. At the bottom of this page, click on ”Delete my account”"},{"title":"3. Lastly, click on “Delete” to confirm"}]},
+					 {"title":"How do I add MY Renault to my personal space?",
+					 "text":[{"title":"1. In the menu, click on “My cars” in the top left"},{"title":"1. In the menu, click on “My profile” in the top left."},{"title":"2. On the vehicle image, slide the finger sideways to the last screen"},{"title":"3. Enter the identification number of you Renault "},{"title":"4. Lastly, click on “Confirm” to confirm "}]},
+					  {"title":"How do I change the details of MY Renault?",
+					 "text":[{"title":"1. In the menu, click on “My cars” in the top left"},{"title":"2. If you have more than one Renault, select the on whose details you want to change (on the vehicle image, slide the finger sideways)"},{"title":"3. On the page for you Renault, in the top left, click on “Edit”"},{"title":"4. Enter you new details and click on “Confirm”"}]},
+					 {"title":"How do I delete My Car from MY Renault account? ",
+					 "text":[{"title":"1. In the menu, click on “My cars” in the top left"},{"title":"2. If you have more than on Renault, select the one you want to delete(on the vehicle image, side the finger sideways)"},{"title":"3.On the page for your Renault, in the top left, click on “Edit”"},{"title":"4. Click on “Delete my vehicle”"},{"title":"5. Lastly, click on “confirm” to confirm"}]}
+					 ],
+					 "faq_questions_guest": [
+		{
+		  "header": "General Information:",
+		  "is_video":"1",
+			"video_url":"https://myrdev.renault-india.com/faq/index.html?9",
+		  "questions": [
+			{
+			  "question_title": "Any minimum requirement of phone/iOS for installing MY Renault app",
+			  "answer": [
+				{
+				  "answer": "1. Android Mobile with OS version Kitkat or above and iOS above 7.0 version"
+				},
+				{
+				  "answer": "2. At least 3G Internet connectivity"
+				},
+				{
+				  "answer": "3. 1.5 GB of RAM (Recommended)"
+				},
+				{
+				  "answer": "4. 4 GB of memory space"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "header": "Login / Registration:",
+		  "is_video":"1",
+			"video_url":"https://myrdev.renault-india.com/faq/index.html?13",
+		  "questions": [
+			{
+			  "question_title": "In case of following error messages during login or registration on to MY Renault app, please note the following possible reasons",
+			  "answer": [
+				{
+				  "answer": "1. App Error Message: “This Mobile number is already registered on MYR, Kindly proceed with SIGN IN”"
+				},
+				{
+				  "answer": "1.1 Reason of error – You are already registered on MY Renault"
+				},
+				{
+				  "answer": "1.2 Action – Sign In  with your mobile number & password [or]"
+				},
+				{
+				  "answer": "2. App Error Message: “Invalid Mobile number or password”"
+				},
+				{
+				  "answer": "2.1 Reason of error – You are not entering the correct mobile number or password"
+				},
+				{
+				  "answer": "2.2 Action - Provided mobile number is not registered or password does not match with the registered mobile number. In case you forgot your password, please use the “Forgot password” link in login page to regenerate your password"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "header": "My Profile: ",
+		  "is_video":"1",
+			"video_url":"https://myrdev.renault-india.com/faq/index.html?15",
+		  "questions": [
+			{
+			  "question_title": "How do I update my personal information?",
+			  "answer": [
+				{
+				  "answer": "1. Click on  burger menu icon on the top left hand side"
+				},
+				{
+				  "answer": "2. Tap on My Profile section to view"
+				},
+				{
+				  "answer": "3. Click on icon and change desired personal information"
+				},
+				{
+				  "answer": "4. Click on icon to save the information"
+				},
+				{
+				  "answer": "Mobile number is your user name hence it cannot be changed."
+				}
+			  ]
+			},
+			{
+			  "question_title": "Is email ID is mandatory to update to use the app.",
+			  "answer": [
+				{
+				  "answer": "No, email ID is not mandatory to use the application. But it is mandatory to provide email ID to submit an enquiry or book a car on App."
+				}
+			  ]
+			},
+			{
+			  "question_title": "How do I Update my Profile picture?",
+			  "answer": [
+				{
+				  "answer": "1. In the 'MY profile' page, click on the   icon on the left of your name."
+				},
+				{
+				  "answer": "2. Capture image using camera or upload any image from gallery."
+				},
+				{
+				  "answer": "3. Click on 'Confirm' to save your changes in My Renault account"
+				}
+			  ]
+			},
+			{
+			  "question_title": "How do I Update my Date of Birth? ",
+			  "answer": [
+				{
+				  "answer": "1. In the 'MY profile' page, click on the calendar to the right of the Date of Birth"
+				},
+				{
+				  "answer": "2. Enter your Date of Birth"
+				},
+				{
+				  "answer": "3. Tap on 'Confirm' to save your changes in My Renault account."
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "header": "Express Interest: ",
+		  "is_video":"1",
+			"video_url":"https://myrdev.renault-india.com/faq/index.html?12",
+		  "questions": [
+			{
+			  "answer": [
+				{
+				  "answer": "In case of following error messages during expressing interest on to MY Renault app, please note the following possible reasons"
+				},
+				{
+				  "answer": "1. # App Error Message: 'Sorry, you have already enquired for Renault. Our dealership will connect with you soon'"
+				},
+				{
+				  "answer": "1.1 Reason for error - An enquiry with your mobile number already exist with selected dealer for the chosen model."
+				},
+				{
+				  "answer": "1.2  Action – Please contact the dealership which you have selected at the time of submitting enquiry"
+				},
+				{
+				  "answer": "2. # App Message: 'Sorry, leads cannot be submitted, please try again later'"
+				},
+				{
+				  "answer": "2.1 Reason for error - This can be due to technical failure. "
+				},
+				{
+				  "answer": "2.2 Action - Please try to create leads after some time"
+				}
+			  ]
+			},
+			{
+			  "question_title": "Can I track the status of my request on App?",
+			  "answer": [
+				{
+				  "answer": "Yes, you can track the status of your request on App."
+				},
+				{
+				  "answer": "1. Click on burger menu icon on the top left hand side"
+				},
+				{
+				  "answer": "2. Tap on “My Profile” section to view "
+				},
+				{
+				  "answer": "3. Click on “My Request” tab to check the status of your request"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "header": "Book a Car: ",
+		  "is_video":"1",
+			"video_url":"https://myrdev.renault-india.com/faq/index.html?11",
+		  "questions": [
+			{
+			  "question_title": "Can I book a Renault Vehicle through MY Renault APP?",
+			  "answer": [
+				{
+				  "answer": "Yes, you can book a car via MY Renault APP & pay online booking amount."
+				},
+				{
+				  "answer": "1. Click on “Book a car” tab on Home Page"
+				},
+				{
+				  "answer": "2. Select the Fuel Type, Model, Variant & Dealer"
+				},
+				{
+				  "answer": "3. Proceed to payment & complete your booking"
+				},
+				{
+				  "answer": "** Make sure you update your email ID in My Profile module of app before booking a car."
+				}
+			  ]
+			},
+			{
+			  "question_title": "Can I cancel my booking from APP? ",
+			  "answer": [
+				{
+				  "answer": "You can cancel booking by contacting the dealership on whom you have placed the order. Kindly note that the payment made through the app is received by the chosen dealer. For any payment/refund related queries, kindly contact the dealership."
+				}
+			  ]
+			},
+			{
+			  "question_title": "Can I change the variant or colour of selected vehicle after the booking?",
+			  "answer": [
+				{
+				  "answer": "Please connect with your selected Renault Dealership to make the changes in booking."
+				}
+			  ]
+			},
+			{
+			  "question_title": "I want to know status of my car booking. Where can I find it?",
+			  "answer": [
+				{
+				  "answer": "Please connect with your selected Renault Dealership to know the status of your car booking or you can also check the status of booking in APP."
+				},
+				{
+				  "answer": "1. Click on Burger menu icon on the top left hand side of app"
+				},
+				{
+				  "answer": "2. Tap on “My Profile” section to view"
+				},
+				{
+				  "answer": "3. Click on “My Request” tab to check the status of your booking"
+				}
+			  ]
+			},
+			{
+			  "question_title": "I want to know status of my payment made against a service. Where can I find it?",
+			  "answer": [
+				{
+				  "answer": "1. Go to “My Profile” from burger menu"
+				},
+				{
+				  "answer": "2. Tap “May App Payments” to view list of payments made through the app"
+				},
+				{
+				  "answer": "3. You may filter by date or type of payment, if needed"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "header": "Online Store: ",
+		  "is_video":"1",
+			"video_url":"https://myrdev.renault-india.com/faq/index.html?14",
+		  "questions": [
+			{
+			  "question_title": "Can I purchase a merchandise listed on MY Renault App?",
+			  "answer": [
+				{
+				  "answer": "You may browse through the merchandise available at Renault outlet in Merchandise menu. To purchase the same, express your interest through the App and dealer will connect with you to complete the process."
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "header": "Other: ",
+		  "is_video":"0",
+			"video_url":"https://myrdev.renault-india.com/faq/index.html?0",
+		  "questions": [
+			{
+			  "question_title": "How to locate a Renault dealer on the App?",
+			  "answer": [
+				{
+				  "answer": "1. Go to “Locate dealer” under “My Renault World”"
+				},
+				{
+				  "answer": "2. Zoom in our Zoom out the map to view location of Renault authorized dealers on the map"
+				},
+				{
+				  "answer": "3. Click on “List” icon to navigate from “Map view” to “List view” of dealers"
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "header": "Account Related ",
+		  "is_video":"1",
+			"video_url":"https://myrdev.renault-india.com/faq/index.html?10",
+		  "questions": [
+			{
+			  "question_title": "How can I delete any notification?",
+			  "answer": [
+				{
+				  "answer": "Long press the notification and tap on the delete button to delete notification."
+				}
+			  ]
+			},
+			{
+			  "question_title": "I used to receive notifications in the app, but haven’t received for quite some time. Why is it so?",
+			  "answer": [
+				{
+				  "answer": "At the time of registration to MY Renault, you agree to receive notifications from Renault India. In case you are not receiving notifications, kindly check settings of your phone and review if you have enabled MY Renault to send you notifications."
+				}
+			  ]
+			},
+			{
+			  "question_title": "How can I change my password?",
+			  "answer": [
+				{
+				  "answer": "1. Go to My Settings section"
+				},
+				{
+				  "answer": "2. Select “Change password” "
+				},
+				{
+				  "answer": "3. Enter current password and choose new password"
+				}
+			  ]
+			},
+			{
+			  "question_title": "Can I change my username – Mobile Number?",
+			  "answer": [
+				{
+				  "answer": "User name for logging on to MY Renault is your mobile number which you verified while registering on to the app. You cannot change the username for MY Renault. If you want to use a new mobile number, a new account will be created for you."
+				}
+			  ]
+			},
+			{
+			  "question_title": "How do I delete my account?",
+			  "answer": [
+				{
+				  "answer": "1. Tap on 'MY Settings' at the bottom of the burger menu"
+				},
+				{
+				  "answer": "2. Select  'Delete Account' to delete your account"
+				},
+				{
+				  "answer": "Once deleted, all information related to you in your account will be lost."
+				}
+			  ]
+			},
+			{
+			  "question_title": "I have bought a Renault Car and I have already registered in MY Renault as guest user before buying the car. Do I need to create a new account on MY Renault APP or I can continue with the same account. ",
+			  "answer": [
+				{
+				  "answer": "Yes, you have to create a new account because a customer account requires the Mobile number & email verification."
+				}
+			  ]
+			}
+		  ]
+		}
+	  ],
+		 "icon_demo":"video.svg",
+		 "placeholder1":"Subject",
+		 "placeholder2":"Write your comments here",
+		 "placeholder3":"Problem",
+		 "placeholder4":"Enter Current Odometer reading",
+		 "placeholder5":"Write your comments here",
+		 "btn_text1":"Call us",
+		 "btn_text2":"Write to us",
+		 "btn_text3":"Send",
+		 "btn_text4":"Send Request",
+		 "btn_text5":"Raise a Request",
+		 "btn_text6":"Track",
+		 "btn_text7":"Submit",
+		 "btn_text8":"Done",
+		 "btn_text9":"Cancel",
+		 "btn_text10":"Delete",
+		 "btn_text11":"Skip",
+		 "btn_text12":"Check Status",
+		 "btn_text13":"Feedback",
+		 "btn_text14":"Edit",
+		 "btn_text15":"Delete",
+		 "dialog_title1":"Thank You",
+		 "dialog_title2":"Assistance Request Submitted",
+		 "dialog_title3":"Rate for RSA",
+		 "dialog_title4":"Problem",
+		 "dialog_title5":"Set Location",
+		 "dialog_title6":"Capture Photo",
+		 "dialog_title7":"Delete Location",
+		 "dialog_title_8":"Rate for RSA",
+		 "message1":"Thanks for contacting us, our support team will get back to you soon",
+		 "message2":"Your Assistance Request has been submitted. Our support team will reach out to you shortly",
+		 "message3":"Are you sure to delete this location?",
+		 "message4":"Are you sure to save this location for your vehicle parking?",
+		 "message5":"Click on the Camera icon to Capture photo",
+		 "message6":"File size too large",
+		 "message7":"Invalid file format",
+		 "message8":"Invalid VIN No",
+		 "messag9":"RSA for this Vin No already exist", 
+		 "errmsg1":"Enter the subject",
+		 "errmsg2":"Enter the comments",
+		 "errmsg3":"Enter Comments",
+		 "errmsg4":"Please select the problem",
+		 "errmsg5":"Enter the Odometer reading",
+		 "message9":"RSA already created for this vehicle",
+		 "message10":"Please select problem & KM",
+		 "message11":"No Address for this location",
+		 "message12":"Give atleast 1 rating",
+		 "message13":"Oops! Server cannot be connected",
+		 "message14":"Tips & Technique",
+		 "message15":"You can upload the document in JPEG format maximum upto 10 MB", 
+		 "message16":"Are you sure to delete this log details?",
+		 "text100":"Video not found",
+		 "faq_video":["https://myrdev.renault-india.com/faq/index.html?0","https://myrdev.renault-india.com/faq/index.html?1","https://myrdev.renault-india.com/faq/index.html?2","https://myrdev.renault-india.com/faq/index.html?3","https://myrdev.renault-india.com/faq/index.html?4","https://myrdev.renault-india.com/faq/index.html?5","https://myrdev.renault-india.com/faq/index.html?6","https://myrdev.renault-india.com/faq/index.html?7","https://myrdev.renault-india.com/faq/index.html?8","https://myrdev.renault-india.com/faq/index.html?9"],
+		 "text_locatetitle":"Delete Image",
+		 "text_locatedesc":"Are you sure to delete this image?",
+		 "internet_refresh":"Refresh the page",
+		 "title4":"Fuel Log",
+		 "placeholder6":"Enter Odometer reading",
+		 "placeholder7":"Enter Amount",
+		 "placeholder8":"Enter Fuel Volume",
+		 "placeholder9":"Enter location",
+		 "placeholder10":"Problem Type",
+		 "placeholder11":"Select Priority",
+		 "placeholder12":"Select Dealer",
+		 "placeholder13":"Select Concern",
+		 "placeholder14":"Select Problem",
+		 "text27":"Total Fuel Volume",
+		 "text28":"Total Amount",
+		 "text29":"Fuel log is not added",
+		 "text30":"Odometer reading",
+		 "text31":"Date",
+		 "text32":"Fuel Volume",
+		 "text33":"Amount",
+		 "text34":"Location",
+		 "text35":"Details shown are based on amount paid by you during servicing of your vehicle.",
+		 "text36":"All",
+		 "text37":"No records available", 
+		 "text38":" View Image", 
+		 "text39":"Track My Vehicle",
+		  "errormsg6":"Please select a date",
+		  "errormsg7":"Please enter the odometer reading",
+		  "errormsg8":"Please enter the amount",
+		  "errormsg9":"Please enter the volume",
+		  "errormsg10":"Please enter the location",
+		  "errormsg11" : "Please select the problem Type",
+		  "errormsg12" : "Please select the Priority",
+		  "errormsg13" : "Please select the Dealer",
+		  "priority":[{"title":"Major"},{"title":"Minor"}],
+		  "tollfree" : "1800 315 44 44",
+		  "tollfree_num" : "18003154444"
+	},
+	 "screen_my_messages":{
+		"banner_text1":"EVERYTHING ABOUT",
+		"banner_text2":"MY",
+		"banner_text3":"My Inbox",	 
+		"text1":"No notification list(s) available",
+		"text2":"View More...",	 
+		 "title":"My Messages",
+		 "menu":[{"title":"Notification(s)"},{"title":"News"}],
+		 "internet_refresh":"Refresh the page"
+	 },
+	 "screen_dealers_list":{
+		"text1":"",
+		"text2":"Call dealer",
+		"text3":"Get Direction"	 
+	 },
+	 	"express_interest": {
+		"text1": "First name*",
+		"text2": "Last name*",
+		"text3": "Email",
+		"text4": "Mobile Number",
+		"text5": "Submit",
+		"text6": "Success",
+		"text7": "Enquiry",
+		"text8": "Error",
+		"error_msg1": "Please Select car",
+		"error_msg2": "Please Select Dealer",
+		"error_msg3": "Please enter a first name",
+		"error_msg4": "Please enter a email id",
+		"error_msg5": "Please enter a mobile number",
+		"error_msg6": "Please provide valid email id",
+		"error_msg7": "Please provide valid phone number",
+		"msg1": "Thank you for showing your interest. We will get back to you soon",
+		"msg2": "Your enquiry already exist with the selected dealership"
+	},
+	"screen_my_settings":{
+		 "title":"My Settings",
+		 "text1":"Notification(s)",
+		 "text2":"Change Password",
+		 "text3":"Reminder Settings",
+		 "text4":"Delete Account",
+		 "text5":"Password strength",
+		 "text6":"Password",
+		 "text7":"Password must be 6 - 10 characters long",
+		 "text8":"Password Changed",
+		 "text13":"SOS Settings",
+		 "message1":"Your password has been successfully changed",
+		 "btn_text1":"Done",
+		 "text9":"Document expiry",
+		 "text10":"Service Appointment",
+		 "text11":"Delete Account",
+		 "text12":"Terms & Conditions",
+		 "text14":"Privacy Policy",
+		 "message2":"Deleting your account will result in:",
+		 "message3":"Deletion of all records & data from application.",
+		 "message4":"Deleting all stored documents in My Documents section",
+		 "message5":"Are you sure, you want to delete the account.",
+		 "btn_text2":"Cancel",
+		 "btn_text3":"Delete Account",
+		 "message6":"Are you sure want to delete your MY Renault Account?",
+		 "btn_text4":"Confirm",
+		 "message7":"Invalid Current Password",
+		 "message8":"Password must differ from old password",
+		 "err_msg1":"Enter current password",
+		 "err_msg2":"Enter new password",
+		 "err_msg3":"Password doesn't match",
+		 "err_msg4":"Please enter a strong password",
+		 "placeholder1":"Enter Current Password",
+		 "placeholder2":"Enter New Password",
+		 "placeholder3":"Re-Enter New Password",
+		 "internet_refresh":"Refresh the page",
+		 "btn_text5":"Yes",
+		 "btn_text6":"No"
+	 },
+	 "screen_map_location":{
+		"title":"Map Location",
+		"title1":"Pick My Vehicle",
+		"title2":"Park My Vehicle",
+		"title3":"Track My Vehicle",
+		"title4":"Select Location",
+		"title5":"Capture Photo",
+		"text1":"Select Dealer",
+		"text2":"Call Dealer",
+		"text3":"Get Direction",
+		"text4":"View Using Map",
+		"text5":"Address",
+		"text6":"Your current Location",
+		"button_text1":"Submit Location",
+		"button_text2":"Pin this location",
+		"button_text3":"Skip",
+		"button_text4":"Cancel",
+		"button_text5":"Save",
+		"message1":"Are you sure to save this location for your vehicle parking?",
+		"message2":"Click on the camera icon to capture photo",
+		"message3":"Are you sure to save this location as start point",
+		"text7":"Pinch to zoom in and zoom out",
+		"text8":"Express interest",
+		"text9":"Lead sent to ",
+		"text10":"Unable to send lead.Please try again later.",
+		"text11":"Dealer not found",
+		"text12":"Disclaimer",
+		"text13":"OK",
+		"text14":"Thank you for your interest, Selected Dealership representative shall connect with you on this shortly",
+		"text15":"This facility is not available at the selected Dealership. You are advised to connect with the Dealer over phone/email. For any further queries, call to Renault’s Customer Care at 1800 315 4444 or write to us at customer@renault.com",
+		"text16":"Delete Image",
+		"text17":"Are you sure want to delete this image?",
+		"text18":"Delete Location",
+		"text19":"Are you sure want to delete this location?",
+		"text20":"Click here to get the dealer list",
+		"text21":"Connect with Dealer",
+		"text22":"Thank you for showing interest. Our dealership will connect with you soon. Your request detailed has been saved under MY Request tab",
+		"text23":"Sorry! Online ordering facility is not available for selected State/City currently",
+		"text24":"No dealers found",
+		"text25":"Please Select State/City"
+	 },
+	"help_screen":{
+		"text1":"Swipe to view more",
+		"text2":"Ok, Got it",
+		"text3":"Tap the Burger Menu",
+		"text4":" to ",
+		"text5":"view",
+		"text6":"Tap to view ",
+		"text7":"More Menus",
+		"text8":"Tap to ",
+		"text9":"for any support",
+		"text10":"Refer & Earn",
+		"text11":"Call Renault Assistance",
+		"text12":"View Cart",
+		"text13":"Add Appointment",
+		"text14":"Tap",
+		"text15":"Notification",
+		"text16":" Side Menu",
+		"text17":"Add vehicle",
+		"text18":"Launch the Dashboard",
+		"text19":"Support",
+		"text20":"Offers",
+		"text21":"SOS",
+		"text22":"Call us"
+	},
+	"about_screen":{
+		"title":"About",
+		"text1":"MY Renault",
+		"text3":"(Version 1.0.7)",
+		"text5":"Copyright 2018 Renault India",
+		"text6":"All rights reserved",
+		"text7":"Powered by Renault",
+		"text8":"(Version 1.2.1)"
+		
+	},
+	"address_select_screen":{
+		"text1":"Select City"
+	},
+	"change_password_screen":{
+		"text1":"My",
+		"text2":" Renault",
+		"text3":"RESET PASSWORD",
+		"text4":"Create new password",
+		"text5":"Confirm new password",
+		"text6":"Entered password is not matching",
+		"text7":"Password strength",
+		"text8":"Weak"
+	},
+	"password_strength":{
+		"text1":"Strong",
+		"text2":"Good",
+		"text3":"Weak"
+	},
+	"kwid_star_url":{
+		"url":"http://www.socialmediaworld.in/kwidstars/dynamic/getMYRKwidstarTabCust/?",
+		"prod_url":"http://www.kwidstars.com/getMYRKwidstarTabCust/?",
+		"client":"http://www.kwidstars.com/",
+		"dev_url":"https://myrdev.renault-india.com/webrenaultrange/#/webrenaultrange/landing/web/",
+		"prod_renault_range_url":"https://myrdev.renault-india.com/webrenaultrange/#/webrenaultrange/landing/web/"
+	},
+	"list_selection":{
+		"text1":"Select Year",
+		"text2":"Select Kilometer Range",
+		"text3":"Problem",
+		"text4":"Select Concern Type",
+		"text5":"Location",
+		"text6":"Select your Service Type",
+		"text7":"Filter By",
+		"text8":"Select Salutation",
+		"text9":"Select Occupation",
+		"text10":"Select Profile",
+		"text11":"Select Year",
+ 		"text12":"Years",
+		"text13":"KMS",
+		"text14":"Service Calculator",
+		"text15":"Cancel",
+		"text16":"Submit", 
+		"text17":"Call Dealer",
+		"text18":"Trouble SigningUp",
+		"text19":"Select Saluation",
+		"text20":"Select Occupation",
+		"text21":"Select City",
+		"text22":"Select Year",
+		"text23":"Select Loan",
+		"text24":"Categories",
+		"text25":"Sort By",
+		"text26":"Select Car",
+		"text27":"Preferred Time",
+		"text28":"Select Dealer",
+		"text29":"Select City",
+		"text30":"Select Dealer",
+		"tollfree" : "1800 315 44 44",
+		"tollfree_num" : "18003154444"
+	},
+	"myshop_category_sortby":[ 
+		{"id":"1","title":"Price","sub_menus":[
+			{"id":"1_1","title":"Low-High" },
+			{"id":"1_2","title":"High-Low"} 
+		]},
+		{"id":"2","title":"Offers", "sub_menus":[
+			{"id":"2_1","title":"Lowest-Highest"} ,
+			{"id":"2_2","title":"Highest-Lowest" } 
+		]},  
+		{"id":"3","title":"Alphabetical Order","sub_menus":[
+			{"id":"3_1","title":"A-Z" },
+			{"id":"3_2","title":"Z-A"} 
+		]}  
+	],
+	"triber_urls": [
+		"apitriber.renault.co.in",
+		"renaultapi.eccentricengine.in",
+		"triber.renault.co.in"
+	],
+	"triber_urls_link": {
+		"domain": "https://apitriber.renault.co.in/experience-configurator?"
+	},
+	"triber_data": {
+		"dealer_code": "GAJA",
+		"model_code": "H45",
+		"variant_code": "CE1D",
+		"product_code": "HHACE1DENJA",
+		"end_item_code": "ATAARKSXHAUEAAZCAB"
+	},
+	"update_version_screen":{
+		"android_link": "market://details?id=com.ttiglobal.myrenault",
+		"apple_link": "itms-apps://itunes.apple.com/app/id1269574480",
+		"description":"Please click below link to open store for update ##VERSION##",
+		"title": "My Renault"
+	},
+	"maintenance_description":{
+		"maintanance_title": "UNDER MAINTANANCE",
+		"powered_by": "Powered by Renault",
+		"title": "My Renault",
+		"description":"<strong>Under maintenance</strong>, Will be back soon."
+	}
+}
