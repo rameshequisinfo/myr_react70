@@ -17,7 +17,7 @@ function Root() {
         width: 240,
         height:150
       },
-      //drawerType:'slide'
+      //  drawerType:'slide'
     }}>
       <Drawer.Screen name={Screen.HomeScreen} component={HomeScreen} options={{ drawerIcon: ({ tintColor }) => (
       <Image
