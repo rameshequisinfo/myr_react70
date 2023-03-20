@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 import { styles } from './OwnerScreenStyle'
 import { Images } from '../../Helper'
 import SosBtn from '../../Asset/icon/sos_btn.svg'
-
+import { Screen } from '../../Helper'
 // import { ImageSlider } from "react-native-image-slider-banner";
 import { SwiperFlatList } from 'react-native-swiper-flatlist'
 
@@ -67,7 +67,7 @@ export default class OwnerScreen extends Component {
               >
                 <Text style={styles.textStyle}>Cancel</Text>
               </Pressable>
-              <Pressable style={[styles.button, styles.buttonClose]} onPress={() => alert('RR')}>
+              <Pressable style={[styles.button, styles.buttonClose]} onPress={() => this.props.navigation.navigate(Screen.SosSettingScreen)}>
                 <Text style={styles.textStyle}>SOS setting</Text>
               </Pressable>
             </View>
@@ -94,7 +94,7 @@ export default class OwnerScreen extends Component {
   renderSignup = () => {
     return (
       <View>
-          <TouchableOpacity style={styles.signupView}>
+          <TouchableOpacity style={styles.signupView}  onPress={() => this.props.navigation.navigate(Screen.SignUpScreen)}>
           <Text style={styles.signupText}>SIGN UP</Text>
           <Image
             source={Images.arrowright}
@@ -103,7 +103,7 @@ export default class OwnerScreen extends Component {
             tintColor={'black'}
           />
         </TouchableOpacity>
-        <TouchableOpacity style={styles.signinView}>
+        <TouchableOpacity style={styles.signinView} onPress={()=>this.props.navigation.navigate(Screen.SignInScreen)}>
           <Text style={styles.signinText}>SIGN IN</Text>
           <Image
             source={Images.arrowright}

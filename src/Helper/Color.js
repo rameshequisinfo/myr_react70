@@ -5,6 +5,6 @@ const Color = {
   blue: '#0000ff',
   modalOverlay: 'rgba(169,169,169, 0.5)',
   gray: '#888B8D',
-  yellow :'#FFC300'
+  yellow :'#FF9800'
 }
 export default Color

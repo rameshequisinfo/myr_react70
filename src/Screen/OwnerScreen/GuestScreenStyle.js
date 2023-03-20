@@ -171,6 +171,15 @@ export const styles = StyleSheet.create({
     sosLine:{
       borderBottomWidth: 1, 
       width: 125
+    },
+    skipView:{
+        alignItems:'flex-end',
+        marginRight:50,
+        marginTop:10
+    },
+    skipText:{
+        textDecorationLine:'underline',
+        color:Color.black
     }
     
 })

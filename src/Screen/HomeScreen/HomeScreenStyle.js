@@ -19,7 +19,7 @@ export const styles = StyleSheet.create({
     },
     myText: {
       fontSize: 25,
-      color: 'yellow',
+      color: Color.yellow,
       fontWeight: 'bold'
     },
     renText: {

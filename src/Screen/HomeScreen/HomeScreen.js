@@ -2,12 +2,12 @@ import { Text, View, Image, StyleSheet, TouchableOpacity } from 'react-native'
 import React, { Component } from 'react'
 import { styles } from './HomeScreenStyle'
 import { Images } from '../../Helper'
-import  HomeCar  from '../../Asset/icon/car.svg'
+import HomeCar from '../../Asset/icon/car.svg'
 import { Screen } from '../../Helper'
 export default class HomeScreen extends Component {
-    render() {
+  renderHeader = () => {
     return (
-      <View style={styles.mainContainer}>
+      <>
         <View style={styles.welView}>
           <Text style={styles.welTxt}>Welcome to</Text>
         </View>
@@ -17,14 +17,19 @@ export default class HomeScreen extends Component {
           </Text>
         </View>
         <View style={styles.imgView}>
-          <Image
-            source={Images.logo}
-            resizeMode={'contain'}
-            tintColor={'black'}
-          />
+          <Image source={Images.logo} resizeMode={'contain'} tintColor={'black'} />
         </View>
-        <TouchableOpacity style={styles.ownerView} onPress={()=> this.props.navigation.navigate(Screen.OwnerScreen)}>
-          <HomeCar  width={25} height={25}/>
+      </>
+    )
+  }
+  renderFooter = () => {
+    return (
+      <>
+        <TouchableOpacity
+          style={styles.ownerView}
+          onPress={() => this.props.navigation.navigate(Screen.OwnerScreen)}
+        >
+          <HomeCar width={25} height={25} />
           <Text style={styles.ownText}>RENAUT OWNER</Text>
           <Image
             source={Images.arrowright}
@@ -33,8 +38,8 @@ export default class HomeScreen extends Component {
             tintColor={'black'}
           />
         </TouchableOpacity>
-        <TouchableOpacity style={styles.guestView}>
-          <HomeCar  width={25} height={25}/>
+        <TouchableOpacity style={styles.guestView} onPress={() => this.props.navigation.navigate(Screen.DashboardInfoScreen)}>
+          <HomeCar width={25} height={25} />
           <Text style={styles.gueText}>GUEST</Text>
           <Image
             source={Images.arrowright}
@@ -52,8 +57,15 @@ export default class HomeScreen extends Component {
           />
           <Text style={styles.assistTxt}>Renualt Assistance</Text>
         </View>
+      </>
+    )
+  }
+  render() {
+    return (
+      <View style={styles.mainContainer}>
+        {this.renderHeader()}
+        {this.renderFooter()}
       </View>
     )
   }
 }
-
